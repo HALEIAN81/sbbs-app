@@ -19,7 +19,7 @@ const index = () => {
                 Welcome. This is where the mysteries of Scotland, Washington will be revealed by our young heroes and
                 the battle against the dark and shadowy organization of BlueHand shall be fought and won in our own backyard.
               </p>
-              <p className="newsTitleContent">Again, welcome to Scotland Backyard.</p>
+              <p className="newsTitleContent">Again, Welcome to Scotland Backyard.</p>
             </div>
             <div className="newsRight">
               <img
