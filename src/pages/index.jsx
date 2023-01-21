@@ -6,7 +6,7 @@ const index = () => {
       <main className="main">
         <section className="hero">
           <h3 className="heading">
-            The story of best young detective in the world
+            The Story Of The Best Young Detective In The World
           </h3>
           <div className="headerImg"></div>
         </section>
