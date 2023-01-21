@@ -11,10 +11,10 @@ const index = () => {
           <div className="headerImg"></div>
         </section>
         <section className="news">
-          <h2 className="newsHeading">News</h2>
+          <h2 className="newsHeading">SCOTLAND BACKYARD BOOK SERIES</h2>
           <div className="newsContainer">
             <div className="newsTitle">
-              <h4 className="newsTitleHeading">SCOTLAND BACKYARD BOOK SERIES</h4>
+              <h4 className="newsTitleHeading">WELCOME TO SCOTLAND BACKYARD</h4>
               <p className="newsTitleContent">
                 Welcome. This is where the mysteries of Scotland, Washington will be revealed by our young heroes and
                 the battle against the dark and shadowy organization of BlueHand shall be fought and won in our own backyard.
