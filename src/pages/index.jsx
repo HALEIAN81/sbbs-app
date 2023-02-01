@@ -34,12 +34,12 @@ const index = () => {
         </section>
         <section className="archives">
           <div className="archivesDiv">
-            <h3 className="archivesTitle">Archives</h3>
-            <span className="archivesText">January 2023</span>
+            <h3 className="archivesTitle">More to Come</h3>
+            <span className="archivesText">2nd Volume in the Works - Q3/Q4 2023</span>
           </div>
           <div className="archivesDiv">
-            <h3 className="archivesTitle">Categories</h3>
-            <span className="archivesText">Uncategorized</span>
+            <h3 className="archivesTitle">Email the author</h3>
+            <span className="archivesText">SBBS.online</span>
           </div>
         </section>
       </main>
