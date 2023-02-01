@@ -21,7 +21,7 @@ const index = () => {
               </p>
               <p className="newsTitleContent">Again, Welcome to Scotland Backyard.</p>
             </div>
-            <div className="newsRight">
+            {/* <div className="newsRight">
               <img
                 className="newsRightImg"
                 src={
@@ -29,7 +29,7 @@ const index = () => {
                 }
                 alt="newsImage"
               />
-            </div>
+            </div> */}
           </div>
         </section>
         <section className="archives">
