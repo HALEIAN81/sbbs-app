@@ -20,6 +20,9 @@ const Header = () => {
           <Link className="navbarLink" href="/author">
             Author
           </Link>
+          <Link className="navbarLink" href="/explore">
+            Author
+          </Link>
         </div>
       </div>
     </header>
