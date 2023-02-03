@@ -21,7 +21,7 @@ const Header = () => {
             Author
           </Link>
           <Link className="navbarLink" href="/explore">
-            Author
+            Explore
           </Link>
         </div>
       </div>
