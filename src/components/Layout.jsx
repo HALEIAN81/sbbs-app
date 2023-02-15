@@ -14,15 +14,16 @@ const Header = () => {
           <Link className="navbarLink" href="/about">
             About
           </Link>
-          <Link className="navbarLink" href="/store">
-            Store
-          </Link>
           <Link className="navbarLink" href="/author">
             Author
           </Link>
           <Link className="navbarLink" href="/explore">
             Explore
           </Link>
+          <Link className="navbarLink" href="/store">
+            Store
+          </Link>
+
         </div>
       </div>
     </header>
