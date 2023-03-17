@@ -5,7 +5,7 @@ const index = () => {
     <>
       <main className="main">
         <section className="hero">
-          <h3 className="heading">
+          <h3 className="heading glow">
             The Story Of The Best Young Detective In The World
           </h3>
           <div className="headerImg"></div>
