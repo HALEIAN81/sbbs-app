@@ -11,7 +11,7 @@ const index = () => {
           <div className="headerImg"></div>
         </section>
         <section className="news">
-          <h2 className="newsHeading">SCOTLAND BACKYARD BOOK SERIES</h2>
+          <h2 className="newsHeading glow">SCOTLAND BACKYARD BOOK SERIES</h2>
           <div className="newsContainer">
             <div className="newsTitle">
               <h4 className="newsTitleHeading">WELCOME TO SCOTLAND BACKYARD</h4>
