@@ -5,21 +5,20 @@ const index = () => {
     <>
       <main className="main">
         <section className="hero">
-          <h3 className="heading glow">
-            The Story Of The Best Young Detective In The World
-          </h3>
+          <h1 className="heading glow sb-title">
+          SCOTLAND BACKYARD BOOK SERIES
+          </h1>
           <div className="headerImg"></div>
         </section>
         <section className="news">
-          <h2 className="newsHeading glow">SCOTLAND BACKYARD BOOK SERIES</h2>
+          <h2 className="newsHeading glow sb-title">The Story of The Best Young Sleuth in the World</h2>
           <div className="newsContainer">
             <div className="newsTitle">
-              <h4 className="newsTitleHeading">WELCOME TO SCOTLAND BACKYARD</h4>
               <p className="newsTitleContent">
                 Welcome. This is where the mysteries of Scotland, Washington will be revealed by our young heroes and
                 the battle against the dark and shadowy organization of BlueHand shall be fought and won in our own backyard.
               </p>
-              <p className="newsTitleContent">Again, Welcome to Scotland Backyard.</p>
+              <p className="newsTitleContent">Welcome to Scotland Backyard.</p>
             </div>
             {/* <div className="newsRight">
               <img

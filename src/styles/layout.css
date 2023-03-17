@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow+Condensed&family=Exo+2&family=Henny+Penny&family=Rye&family=Sacramento&family=Tinos&display=swap');
+
+
 .header{
 background-color: #121e34;
 width: 100%;
@@ -57,7 +60,7 @@ height: 80px;
     }
 .heading{
     color: #aaa;
-    font-size: 2rem;
+    font-size: 4rem;
     font-weight: 400;
     letter-spacing: 1px;
     text-align: center;
@@ -69,10 +72,10 @@ height: 80px;
     text-shadow: 
       0 0 2px white,
       0 0 10px white,
-      0 0 20px #0ba9ca,
-      0 0 30px #0ba9ca,
-      0 0 40px #0ba9ca,
-      0 0 50px #0ba9ca;
+      0 0 20px #50C752,
+      0 0 30px #50C752,
+      0 0 40px #50C752,
+      0 0 50px #50C752;
     animation: blink 1.5s infinite alternate;
 }
 .headerImg{
@@ -100,6 +103,9 @@ height: 80px;
 .newsHeading{
 font-size: 54px;
 margin: 20px 0;
+}
+.sb-title {
+    font-family: 'Henny Penny';
 }
 .newsContainer{
     width: 100%;
