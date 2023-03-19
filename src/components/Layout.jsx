@@ -33,7 +33,7 @@ const Header = () => {
 const Footer = () => {
   return (
     <footer className="footer">
-      <p className="footerText glow">
+      <p className="footerText glow-footer">
         Copyright<span> &copy;</span> 2023{" "}
         <Link className="footerLink" href={"/"}>
           Sbbs.Online

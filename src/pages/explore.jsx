@@ -3,8 +3,9 @@ import React from "react";
 const Explore = () => {
   return (
     <div className="explore">
-      <h3 className="pageTitle">Store</h3>
-      <p>
+      <h3 className="pageTitle glow sb-title">Explore Scotland Backyard</h3>
+      <div className="explore-img1"></div>
+      <p className="explore-text">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
         molestiae, a error aliquid debitis laborum. Quis fugiat dolorem
         repellendus doloribus iure nobis, ab voluptas qui odio saepe nulla

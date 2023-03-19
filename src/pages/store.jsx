@@ -2,9 +2,10 @@ import React from "react";
 
 const Store = () => {
   return (
-    <div className="store">
+    <div className="store glow">
       <h3 className="pageTitle">Store</h3>
-      <p>
+      <div className="store-img1"></div>
+      <p className="store-text">
         Coming soon!!!
       </p>
     </div>
