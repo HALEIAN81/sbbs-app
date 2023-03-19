@@ -16,7 +16,7 @@ const Author = () => {
         Washington and as such - Scotland Backyard.
       </p>
       <p className="next-book">
-        Please look out for Scotland Backyard - Volume II - The Warlock's Cabal coming out Q3 2023 on Amazon. 
+        Please look out for <span>Scotland Backyard - Volume II - The Warlock's Cabal</span> coming out Q3 2023 on Amazon. 
       </p>
       <p className="thanks">
         Thank you all for supporting this journey.
