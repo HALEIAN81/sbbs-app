@@ -4,7 +4,7 @@ const Explore = () => {
   return (
     <div className="explore">
       <h3 className="pageTitle glow sb-title">Explore Scotland Backyard</h3>
-      <div className="explore-img1"></div>
+      <a href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1" target="_blank"><div className="explore-img1"></div></a>
       <p className="explore-text">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
         molestiae, a error aliquid debitis laborum. Quis fugiat dolorem
