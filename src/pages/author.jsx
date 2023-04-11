@@ -6,8 +6,9 @@ const Author = () => {
       <h3 className="pageTitle sb-title glow">Meet the Author - Hale Verde</h3>
       <div className="authorImg"></div>
       <p className="p-quote glow">
-        "I believe, life itself is the greatest mystery - but to add our own unique experiences and creative endeavors is to uncover that mystery every day" - Hale Verde. 
+        "I believe, life itself is the greatest mystery - but to add our own unique experiences and creative endeavors is to uncover that mystery every day."  
       </p>
+      <p className="p-author glow">- Hale Verde</p>
       <p className="story-summary">
         The story of Jackson, Jira and Melissa is a budding story of individual heroism, dedication and the 
         depthness of character even in the world of fiction. I hope that those that read our book and those that follow

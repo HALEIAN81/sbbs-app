@@ -268,12 +268,12 @@ align-items: center;
     background-position: center center;
     overflow: hidden;
     padding: 500px;
+    border-radius: 50px;
 }
 .p-quote {
     font-size: 48px;
-    padding-top: 100px;
-    padding-bottom: 100px;
-
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .story-summary {
     font-size: 36px;
