@@ -1,365 +1,514 @@
-@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow+Condensed&family=Exo+2&family=Henny+Penny&family=Rye&family=Sacramento&family=Tinos&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow+Condensed&family=Exo+2&family=Henny+Penny&family=Rye&family=Sacramento&family=Tinos&display=swap");
 
-
-.header{
-background-color: #121e34;
-width: 100%;
-height: 80px;
+.header {
+  background-color: #121e34;
+  width: 100%;
+  height: 80px;
 }
 
-.nav{
-    width: 90%;
-    height: 100%;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.nav {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.logo{
-    display: flex;
-    align-items: center;
-    height: 100%;
+.logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
-.logoLink{
-    font-size: 26px;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: #ccc;
+.logoLink {
+  font-size: 26px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ccc;
 }
-.logoLink:hover{
-    color: darksalmon;
-}
-
-.navbar{
-    flex: 1;
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    height: 100%;
+.logoLink:hover {
+  color: darksalmon;
 }
 
-.navbarLink{
-    text-decoration: none;
-    color: #ccc;
-    margin: 0 10px;
-    padding: 5px 20px;
-    font-size: 24px;
-    text-transform: uppercase;
-    transition: all 0.3s ease-in-out;
+.navbar {
+  flex: 1;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  height: 100%;
 }
-.navbarLink:hover{
-    color: darksalmon;
+
+.navbarLink {
+  text-decoration: none;
+  color: #ccc;
+  margin: 0 10px;
+  padding: 5px 20px;
+  font-size: 24px;
+  text-transform: uppercase;
+  transition: all 0.3s ease-in-out;
+}
+.navbarLink:hover {
+  color: darksalmon;
 }
 /*main section*/
-.hero{
-    background-color: #121e34;
-    width: 100%;
-    height: auto;
-    margin: auto;
-    }
-.heading{
-    color: #aaa;
-    font-size: 4rem;
-    font-weight: 400;
-    letter-spacing: 1px;
-    text-align: center;
-    padding: 10px 0;
-    margin: 0 0 20px 0;
+.hero {
+  background-color: #121e34;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+.heading {
+  color: #aaa;
+  font-size: 4rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 0 20px 0;
 }
 .glow {
-    color: white;
-    text-shadow: 
-      0 0 2px white,
-      0 0 10px white,
-      0 0 20px #50C752,
-      0 0 30px #50C752,
-      0 0 40px #50C752,
-      0 0 50px #50C752;
-    animation: blink 1.5s infinite alternate;
+  color: white;
+  text-shadow: 0 0 2px white, 0 0 10px white, 0 0 20px #50c752, 0 0 30px #50c752,
+    0 0 40px #50c752, 0 0 50px #50c752;
+  animation: blink 1.5s infinite alternate;
 }
 .glow-footer {
-    color: white;
-    text-shadow: 
-      0 0 0px white,
-      0 0 0px white,
-      0 0 00px #50C752,
-      0 0 00px #50C752,
-      0 0 30px #50C752,
-      0 0 30px #50C752;
-    animation: blink 1.5s infinite alternate;
+  color: white;
+  text-shadow: 0 0 0px white, 0 0 0px white, 0 0 00px #50c752, 0 0 00px #50c752,
+    0 0 30px #50c752, 0 0 30px #50c752;
+  animation: blink 1.5s infinite alternate;
 }
 span {
-    color: white;
-    text-shadow: 
-    0 0 2px white,
-    0 0 10px white,
-    0 0 20px #50C752,
-    0 0 30px #50C752,
-    0 0 40px #50C752,
-    0 0 50px #50C752;
-        animation: blink 1.5s infinite alternate;
+  color: white;
+  text-shadow: 0 0 2px white, 0 0 10px white, 0 0 20px #50c752, 0 0 30px #50c752,
+    0 0 40px #50c752, 0 0 50px #50c752;
+  animation: blink 1.5s infinite alternate;
 }
-.headerImg{
-    width: 90%;
-    margin: auto;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('https://jodeaux.agency/assets/img/portfolio/portfolio-20.png');
-    height: 1040px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    border-radius: 20px;
-    padding-top: 50px;
+.headerImg {
+  width: 90%;
+  margin: auto;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://jodeaux.agency/assets/img/portfolio/portfolio-20.png");
+  height: 1040px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  border-radius: 20px;
+  padding-top: 50px;
 }
+.image1{
+  width: 96%;
+  height: auto;
+  border-radius: 14px;
+  margin: 0px 5px;
+}
+.news {
+  background: #121e34;
+  color: white;
+  width: 100%;
+  height: auto;
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.newsHeading {
+  font-size: 54px;
+  margin: 20px 0;
 
-
-.news{
-    background: #121e34;
-    color: white;
-    width: 100%;
-    height: auto;
-    padding: 40px 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.newsHeading{
-font-size: 54px;
-margin: 20px 0;
+  padding: 0px 9px;
 }
 .sb-title {
-    font-family: 'Henny Penny';
+  font-family: "Henny Penny";
 }
-.newsContainer{
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 0;
+.newsContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
 }
-.newsTitle{
-    display: flex;
-    flex-direction: column;
-    justify-content:space-between;
-    font-weight: 460;
-    width: 50%;
-    padding:0 60px;
+.newsTitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-weight: 460;
+  width: 50%;
+  padding: 0 60px;
 }
-.newsTitleHeading{
-    font-size: 36px;
-    margin: 0 0 20px 0;
+.newsTitleHeading {
+  font-size: 36px;
+  margin: 0 0 20px 0;
+}
+.newsTitleContent {
+  font-size: 28px;
+  margin: 0 0 10px 0;
+}
 
+.newsRight {
+  display: flex;
+  justify-self: flex-end;
+  width: 50%;
+  height: 420px !important;
+  /* border: 1px solid red; */
 }
-.newsTitleContent{
-    font-size: 28px;
-    margin: 0 0 10px 0;
+.newsRightImg {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  border-radius: 20px;
 }
-
-.newsRight{ 
-    display: flex;
-    justify-self: flex-end;
-    width: 50%;
-    height: 420px;
-}
-.newsRightImg{  
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    border-radius: 20px;
-}
-.portfolioImg1, .portfolioImg2, .portfolioImg3, .portfolioImg4, .portfolioImg5{  
-    width: 1000px;
-    height: 400px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    margin-left: 75px;
-    margin-right: 50px;
-    margin-top: 10px;
+.portfolioImg1,
+.portfolioImg2,
+.portfolioImg3,
+.portfolioImg4,
+.portfolioImg5 {
+  width: 1000px;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  margin-left: 75px;
+  margin-right: 50px;
+  margin-top: 50px;
 }
 .explore-img1 {
-    width: 30%;
-    margin-top: 50px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('https://jodeaux.agency/assets/img/portfolio/portfolio-23.png');
-    height: 1040px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    padding: 500px;
-    border-radius: 20px;
+  width: 100%;
+  margin-top: 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://jodeaux.agency/assets/img/portfolio/portfolio-23.png");
+  height: 1040px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+
+  border-radius: 20px;
 }
 .explore-text {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .about-img1 {
-    width: 30%;
-    margin-top: 50px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('https://jodeaux.agency/assets/img/portfolio/portfolio-22.png');
-    height: 1040px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    padding: 500px;
-    border-radius: 20px;
+  width: 100%;
+  margin-top: 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://jodeaux.agency/assets/img/portfolio/portfolio-22.png");
+  height: 1040px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  /* padding: 500px; */
+  /* border: 1px solid red; */
+  border-radius: 20px;
 }
 .about-text {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .store-text {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .store-img1 {
-    width: 90%;
-    margin-top: 50px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('https://jodeaux.agency/assets/img/portfolio/portfolio-26.png');
-    height: 1040px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    padding: 500px;
-    border-radius: 20px;
+  width: 90%;
+  margin-top: 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://jodeaux.agency/assets/img/portfolio/portfolio-26.png");
+  height: 1040px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  padding: 500px;
+  border-radius: 20px;
 }
 /*archives section*/
-.archives{
-    background-color:#121e34;
-    height: 40vh;
-    color: white;
-    padding: 40px 0;
-    display: flex;
-    justify-content: center;
-    width: 100%;
+.archives {
+  background-color: #121e34;
+  height: 40vh;
+  color: white;
+  padding: 40px 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
-.archivesDiv{
-width: 100%;
-display: flex;
-flex-direction: column;
-align-items: center;
+.archivesDiv {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.archivesTitle{
-    font-size: 28px;
-    margin: 20px 0 0;
+.archivesTitle {
+  font-size: 28px;
+  margin: 20px 0 0;
 }
-.archivesText{
-    font-size: 20px;
-    margin: 10px 0;
+.archivesText {
+  font-size: 20px;
+  margin: 10px 0;
 }
 /*archives section*/
 
 /*author page*/
 .authorImg {
-    width: 30%;
-    margin-top: 50px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url('https://jodeaux.agency/assets/img/portfolio/portfolio-18.png');
-    height: 1040px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    overflow: hidden;
-    padding: 500px;
-    border-radius: 50px;
+  width: 100%;
+  margin-top: 50px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("https://jodeaux.agency/assets/img/portfolio/portfolio-18.png");
+  height: 1040px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  /* padding: 500px; */
+  border-radius: 50px;
 }
 .p-quote {
-    font-size: 48px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+  font-size: 48px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .story-summary {
-    font-size: 36px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+  font-size: 36px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .next-book {
-    font-size: 36px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+  font-size: 36px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .thanks {
-    font-size: 36px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+  font-size: 36px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 /*footer section*/
-.footer{
-width: 100%;
-display: flex;
-justify-content: center;
-align-items: center;
-height: 120px;
-color: white;
-background-color: black;
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  color: white;
+  background-color: black;
 }
-.footerLink{
-    text-decoration: none;
-    color: #ccc;
-    padding: 5px 10px;
-    font-size: 16px;
-    text-transform: uppercase;
+.footerLink {
+  text-decoration: none;
+  color: #ccc;
+  padding: 5px 10px;
+  font-size: 16px;
+  text-transform: uppercase;
 }
-.footerLink:hover{
-    color: darksalmon;
-}
-
-.footerText{
-    color:#999;
-    font-size: 16px;
-    margin: 0 0 0 10px;
+.footerLink:hover {
+  color: darksalmon;
 }
 
+.footerText {
+  color: #999;
+  font-size: 16px;
+  margin: 0 0 0 10px;
+}
+.center-text {
+  text-align: center;
+}
+.hemburguricon {
+  width: 100px;
+}
+.hemburgurIconBox a {
+  display: block;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.hemburgurIconBox {
+  background-color: black;
+  width: 100%;
+  padding: 10px 0px 20px 0px;
+  position: absolute;
+  top: 90px;
+  left: 0px;
+  display: none;
+}
+.hemburguricon{
+  display: none;
+}
 /*media queries for tablet*/
+@media only screen and (max-width: 1200px) {
+  .navbar {
+    display: none;
+  }
+  .hemburgurIconBox {
+    display: block;
+  }
+  .hemburguricon{
+    display:block;
+  }
+  .heading1 {
+    font-size: 2.5rem;
+  }
 
-@media screen and (max-width: 768px){
- .newsContainer{
-     flex-direction: column;
- }
- .newsRight{
-     width: 100%;
-     height: 460px;
- }
- .newsTitle{
-     width: 100%;
-     padding: 0 40px;
- }
- .archives{
-flex-direction: column;
+  .heading2 {
+    font-size: 35px;
+  }
+  .p1 {
+    font-size: 23px;
+    line-height: 33px;
+  }
+  .textBox {
+    width: 80%;
+  }
+  .p2 {
+    font-size: 22px;
+  }
+  /*Tablets [601px -> 1200px]*/
 }
+
+@media screen and (max-width: 768px) {
+  .portfolioImg1,
+  .portfolioImg2,
+  .portfolioImg3,
+  .portfolioImg4,
+  .portfolioImg5 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 7px;
+  }
+  .heading1 {
+    font-size: 1.5rem;
+  }
+  .heading2 {
+    font-size: 20px;
+  }
+  .newsHeading {
+    margin: 0px 0px;
+  }
+  .heading3 {
+    font-size: 20px;
+  }
+  .newsContainer {
+    padding: 10px 0px;
+  }
+  .p1 {
+    font-size: 18px;
+    line-height: 29px;
+  }
+  .newsContainer {
+    flex-direction: column;
+  }
+  .column-reverse {
+    flex-direction: column-reverse;
+  }
+  .newsRight {
+    width: 100%;
+    height:320px  !important; 
+    /* border: 1px solid red; */
+
+  }
+  .newsTitle {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .archives {
+    flex-direction: column;
+  }
 }
 
 /*media queries for mobile*/
 
-@media screen and (max-width: 600px){
-    .header{
-        padding: 20px;
-        height: auto;}
-     .nav{
-        width: 100%;
-        height: fit-content;
+@media screen and (max-width: 600px) {
+  
+  .hemburguricon{
+    width: 70px;
+  }
+  .logoLink{
+    font-size: 18px;
+  }
+  .navbarLink{
+    font-size: 17px;
+    margin-bottom: 0px !important;
+  }
+  .header {
+
+    padding: 0px 0px;
+    padding-bottom: 30px;
+    height: auto;
+  }
+  .next-book {
+    font-size: 23px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .thanks {
+    font-size: 23px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .logo {
+    /* align-self: start; */
+  }
+  .navbar {
     flex-direction: column;
-    }
-    .logo{
-    align-self: start;
-    }
-    .navbar{
-    flex-direction: column;
-    }
-    .navbarLink{
-        margin: 10px 0;
-    }
-    .heading{
-        padding: 0 30px;
-    }
-    .headerImg{
-        width: 100%;
-    }
+  }
+  .navbarLink {
+    margin: 10px 0;
+  }
+  .heading {
+    padding: 0 30px;
+  }
+  .headerImg {
+    width: 95%;
+  }
+  .archivesTitle {
+    font-size: 20px;
+  }
+  .footerLink {
+    font-size: 15px;
+  }
+  .footer {
+    height: 64px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .heading1 {
+    font-size: 1rem;
+  }
+  .heading3 {
+    font-size: 16px;
+  }
+
+  .p2 {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .heading1 {
+    font-size: 1rem;
+  }
+  .heading2 {
+    font-size: 16px;
+  }
+
+  .p1 {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .archivesTitle {
+    font-size: 17px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .pageTitle {
+    margin: 0px 0px !important ;
+  }
 }

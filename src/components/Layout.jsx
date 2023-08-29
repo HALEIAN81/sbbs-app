@@ -1,12 +1,17 @@
 import Link from "next/link";
-import React from "react";
+import React, { useState } from "react";
+import hamburgerIcon from "../images/hamburger.png";
 
 const Header = () => {
+  const [first, setfirst] = useState("none");
+  const handleMunuIcon = () => {
+    first == "none" ? setfirst("block") : setfirst("none");
+  };
   return (
     <header className="header">
       <div className="nav">
         <div className="logo">
-          <Link className="logoLink" href="/">
+          <Link onClick={()=>(setfirst("none"))} className="logoLink" href="/">
             sbbs.online
           </Link>
         </div>
@@ -23,7 +28,24 @@ const Header = () => {
           <Link className="navbarLink" href="/store">
             Store
           </Link>
+        </div>
+        <div className="mobilemenu">
+          <img onClick={handleMunuIcon} className="hemburguricon" src={hamburgerIcon.src} />
 
+          <div style={{ display: first }} className="hemburgurIconBox">
+            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/about">
+              About
+            </Link>
+            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/author">
+              Author
+            </Link>
+            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/explore">
+              Explore
+            </Link>
+            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/store">
+              Store
+            </Link>
+          </div>
         </div>
       </div>
     </header>

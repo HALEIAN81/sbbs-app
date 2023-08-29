@@ -1,9 +1,9 @@
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
-  --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
-    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
-    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+    "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
+    "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -79,23 +79,31 @@
   margin: 0;
 }
 
-.author, .about, .store, .explore{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    width: 100%;
-    background: #121e34;
-    font-size: 36px;
-    color: white;
-    padding: 40px 5%;
+.author,
+.about,
+.store,
+.explore {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background: #121e34;
+  font-size: 36px;
+  color: white;
+  padding: 40px 5%;
 }
 
-.pageTitle{
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 20px;
-    margin: 40px 0;
-    color: white;
+.pageTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  margin: 40px 0;
+  color: white;
+}
+@media screen and (max-width: 600px) {
+  .pageTitle {
+    margin: 0px 0px !important ;
+  }
 }
