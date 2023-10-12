@@ -85,7 +85,7 @@ dedicated to solving his cases, finding his lost father, protecting his mother a
 
 <div className="newsContainer ">
 <div className="newsTitle">
-<h4 className="portfolioTitle3">Jiro</h4>
+<h4 className="portfolioTitle3">Jiro Ashikaga</h4>
 <p className="newsTitleContent p1">
 "Pal, homie, friend" as he is frequently greeted by the great detective, Jackson Shaw. Does he know Karate, or does he know
 Crazy - otherwise known as Karaze! Honest, true and loyal to his friends - Jiro is both sidekick and master of his own
@@ -128,7 +128,7 @@ Legacy is at stake and solving this mystery for our young detective Jackson Shaw
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Melissa</h4>
+<h4 className="portfolioTitle5">Melissa Christie</h4>
 <p className="newsTitleContent p1">
 Oh to celebrate young love and love interests, beating hearts and the pillars of youth! Melissa is vital to the success of our young detective Jackson Shaw, but also a
 distraction and weakness. Whether she shall be a future friend or foe, or survive the fights ahead for Scotland, Washington
@@ -158,16 +158,10 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Riley</h4>
+<h4 className="portfolioTitle4">Riley Miller</h4>
 <p className="newsTitleContent p1">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Friend of Jackson or Jiro? Maybe not...this young man is as menacing as he is shady. He's on the Scotland United
+Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington unravel, maybe he will too.
 </p>
 </div>
 </div>
@@ -175,7 +169,7 @@ sint ea Lorem tempor culpa officia consequat laboris.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Lance</h4>
+<h4 className="portfolioTitle5">Lance Elysian</h4>
 <p className="newsTitleContent p1">
 Friend or foe? Only time will tell. He is as talented as he is red-headed. Smart and certainly destined for something...
 we shall see his full measure, and perhaps he will help save Scotland and the world at large. Time will tell...
@@ -244,7 +238,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Mr. Cavos</h4>
+<h4 className="portfolioTitle4">Mr. Winston Cavos</h4>
 <p className="newsTitleContent p1">
 To be a teacher at Scotland Middle School is to sign up for punishment that only the enemies of Genghis Khan
 know well. Winston Cavos, was a true lover of history and like all residents of Scotland, Washington - has a role to
@@ -256,16 +250,12 @@ play in the mysteries of the city-town.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">The Science Teacher</h4>
+<h4 className="portfolioTitle5">Dr. Bryan Belarus</h4>
 <p className="newsTitleContent p1">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Ally, enemy or in-between. A shroud of uncertainty surrounds him as he is both mentor and possible
+Well-trained in the world of science and research, his interests are as vast as his collections featured in his
+middle school classroom. He relies heavily on BlueHand for supplies, can he be trusted in the development of our
+budding heroes. How deep does his relationship with BlueHand go.
 </p>
 </div>
 <div className="newsRight">
@@ -306,7 +296,10 @@ a powerful group or will he succumb to their power.
 <div className="newsTitle">
 <h4 className="portfolioTitle5">BlueHand Corporation</h4>
 <p className="newsTitleContent p1">
-Evil, absolute evil. Diabolical. All they want is money and to take over Scotland, Washington and turn it into
+Evil, absolute evil. Diabolical. All they want is money and to take over Scotland, Washington and turn it into their
+testing grounds for their future domination of the human race. It's obvious really. They have contracts with the Navy and Marines, they
+own the hospital and research facilities, the university and the local high school and middle school. Can our heroes thwart
+their efforts to rule and enslave all of Scotland, Washington. Who will be victorious? Can anyone be victorious?
 </p>
 </div>
 <div className="newsRight">
@@ -334,14 +327,9 @@ alt="newsImage"
 <div className="newsTitle">
 <h4 className="portfolioTitle4">Animal Control</h4>
 <p className="newsTitleContent p1">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Dogs with green eyes and black drool...parrots with tentacles coming out of their beaks...hamster's that glow in the dark...
+Scotland, Washington is full of oddities. Did they escape fro BlueHand corporate, one of their many scattered research labs,
+the Scotland United University? Who is responsible?
 </p>
 </div>
 </div>
@@ -349,16 +337,13 @@ sint ea Lorem tempor culpa officia consequat laboris.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Coach Adams</h4>
+<h4 className="portfolioTitle5">Coach Gary Adams</h4>
 <p className="newsTitleContent p1">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Dedicated to hockey and his ever changing hockey team, helping them on their way to greatness.
+Coach Gary Adams was demoted from the high school team to the middle school team but quickly rose to the occasion
+and has aims to make the Scotland United Middle School hockey team one of the best in the nation. Their rivals are fierce
+and a lot is at stake as the season begins. Midland Cobras, no problem...mascot acting weird, no problem...team acting weird all of a
+sudden - yeah, well maybe a problem, but that's Scotland Hockey!
 </p>
 </div>
 <div className="newsRight">
@@ -384,16 +369,14 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4 ">Nurse Jackie</h4>
+<h4 className="portfolioTitle4 ">Nurse Winifred Jackie</h4>
 <p className="newsTitleContent p1 ">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Trained in CPR and life saving techniques. Trained in counseling and medication dispensing. Trained in
+physical exam and healing kids from colds and fights. She is confident, focused and dutiful. She, however,
+is not trained in assessment of possible vampires, werewolves...are they allergic to her silver laced watch?
+Do they only have symptoms on a full moon? Children, vampires, werewolves and much more - oh my!
+
+
 </p>
 </div>
 </div>
@@ -403,14 +386,10 @@ sint ea Lorem tempor culpa officia consequat laboris.
 <div className="newsTitle">
 <h4 className="portfolioTitle5">The Cafeteria Ladies</h4>
 <p className="newsTitleContent p1">
-Eiusmod do sint sunt proident do consequat adipisicing amet
-non pariatur aliquip. Labore laborum id in do fugiat
-cupidatat aliquip nisi cupidatat ut mollit. Aliqua elit
-nulla ad id magna voluptate quis exercitation esse eiusmod
-fugiat occaecat nostrud eu. Cillum et veniam consectetur
-excepteur elit minim deserunt anim cupidatat. Enim minim
-pariatur quis pariatur id culpa ad quis ex. Lorem laboris
-sint ea Lorem tempor culpa officia consequat laboris.
+Salisbury chicken with cream of peas. Carrot and beef stew. Minted ice cream with almond shivers.
+These ladies can make anything, but where's the garlic? Is this beef medium rare? What else do they provide
+while trying to provide edible services for our young heroes and the mysterious groups that are a part of
+Scotland United Middle School.
 </p>
 </div>
 <div className="newsRight">
