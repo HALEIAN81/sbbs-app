@@ -384,7 +384,7 @@ Do they only have symptoms on a full moon? Children, vampires, werewolves and mu
 
 <div className="newsContainer ">
 <div className="newsTitle">
-<h2 className="portfolioTitle5">The Cafeteria Ladies</h2>
+<h2 className="portfolioTitle5"><span className="glow">The Cafeteria Ladies</span></h2>
 <p className="newsTitleContent p1">
 Salisbury chicken with cream of peas. Carrot and beef stew. Minted ice cream with almond shivers.
 These ladies can make anything, but where's the garlic? Is this beef medium rare? What else do they provide
@@ -414,7 +414,7 @@ alt="newsImage"
 </div>
 <div className="archivesDiv">
 <h3 className="archivesTitle">Email the author</h3>
-<span className="archivesText">haleverde2020@gmail.com</span>
+<span className="glow">haleverde2020@gmail.com</span>
 </div>
 </section>
 </main>
