@@ -16,7 +16,7 @@ const Store = () => {
       </a>
       <p className="store-text heading2">
         Introducing Scotland Backyard - The Knights Array - Volume I of a new
-        children mystery series. As the stories of Scotland Backyard unfold, we
+        children's mystery series. As the stories of Scotland Backyard unfold, we
         hope you will join our young brave investigators as they unlock the
         mysteries of their small town, save lives, play hockey and experience
         both joy and terror. What waits inside this deep labyrinth of tales will

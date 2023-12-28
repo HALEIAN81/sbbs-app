@@ -53,7 +53,7 @@ alt="newsImage"
 <img
 className="portfolioImg2"
 src={
-"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+"https://cdn.discordapp.com/attachments/1070928212042977373/1087774957074907268/HaleVerde_large_castle_like_building_with_modern_glass_and_meta_ec4c471e-cc3a-44da-8725-692ac2217aac.png?ex=659d745f&is=658aff5f&hm=eeac0abb9f08d48ee477b44cad212628e5e51eece675d035253d3c27a64b3af9&"
 }
 alt="newsImage"
 />
@@ -84,7 +84,7 @@ have dedicated there young lives to uncovering its atrocities and wrong-doings.
 <img
 className="portfolioImg3"
 src={
-"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+"https://cdn.discordapp.com/attachments/1070928212042977373/1097045293717004288/RGreen_evil_corporation_dozens_of_people_sitting_at_an_evil_tab_e6cf1fb6-26e3-4fec-a9c4-c56c5655e352.png?ex=659a440c&is=6587cf0c&hm=b7b804d4e71a6ac919ccbe3ab1319bc444db010b03d06edcdc76240ff3a415e8&"
 }
 alt="newsImage"
 />
@@ -129,7 +129,7 @@ would-be vampires, werewolves, immortals and yes, "The Weirdness" begins to have
 <img
 className="portfolioImg5"
 src={
-"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+"https://cdn.discordapp.com/attachments/1070928212042977373/1171167602932977774/rgreen__n_the_heart_of_a_bustling_middle_school_a_mascot_stands_f7058f7a-d0cc-424f-af69-4b832077e264.png?ex=659c4b53&is=6589d653&hm=f7ea120c50cd408318b2e8a6efd72385e303a97c26f35a09fca307f9915a399e&"
 }
 alt="newsImage"
 />
