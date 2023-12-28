@@ -12,17 +12,19 @@ const Author = () => {
       </p>
       <p className="p-author glow heading2">- Hale Verde</p>
       <p className="story-summary p1">
-        The story of Jackson, Jira and Melissa is a budding story of individual heroism, dedication and the 
-        depthness of character even in the world of fiction. I hope that those that read our book and those that follow
-        can share in that journey and make it their own. BlueHand is a mysterious force and as we work through the series
-        I hope that our readers will discover a love for that 'unwinding' of their mystery and learn more about Scotland, 
-        Washington and as such - Scotland Backyard.
-      </p>
+        The story of Jackson, Jira and Melissa is a budding story of individual heroism, unwavering dedication and the 
+        depth of character even in the world of fiction.</p>
+        <p>I hope that those that read our book and those that follow
+        can be captivated by their journey sharing in their triumphs and unraveling the captivating enigma of BlueHand.
+        I hope that our readers will discover a love for that 'unwinding' of their mystery and learn more about Scotland, Washington and as such - Scotland Backyard.</p>
       <p className="next-book  ">
-        Please look out for <span>Scotland Backyard - Volume II - The Warlock's Cabal</span> coming out Q3 2023 on Amazon. 
+        Please look out for <span>Scotland Backyard - Volume II - The Warlock's Cabal</span> coming out Q1 2024 on Amazon and other sellers.
       </p>
-      <p className="thanks ">
+      <p className="thanks">
         Thank you all for supporting this journey.
+      </p>
+      <p>
+        You can email the author at haleverde2020@gmail.com <span className="glow">:)</span>
       </p>
     </div>
   );
