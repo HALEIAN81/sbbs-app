@@ -25,7 +25,7 @@ The Story of The Best Young Sleuth in the World
 <div className="newsTitle textBox">
 <p className="newsTitleContent p1">
 Welcome.</p>
-<p>This is where the mysteries of Scotland, Washington
+<p className="newsTitleContent p1">This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
 won in our own backyard.</p>
@@ -35,11 +35,11 @@ Welcome to Scotland Backyard.
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading glow heading3">
-Meet the Characters of Scotland BackYard
+Meet the Characters of Scotland Backyard
 </h2>
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle1">Scotland, Washington</h4>
+<h2 className="portfolioTitle1">Scotland, Washington</h2>
 <p className="newsTitleContent p1">
 There exist mysterious towns and cities and then there is Scotland, Washington. Nestled in the heart of McGregor County, lies our humble city-town.
 Founded by the McGregor family and fashioned with a boost from the gold rush and the silver rush, little Scotland, WA quickly became big Scotland, WA helped
@@ -71,9 +71,9 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle2">
+<h2 className="portfolioTitle2">
 Jackson Shaw - The Great Detective
-</h4>
+</h2>
 <p className="newsTitleContent p1">
 Hero? Detective? Center for Scotland United? His destiny is as mysterious as his abilities. Jackson is dedicated, truly
 dedicated to solving his cases, finding his lost father, protecting his mother and his friends. Jackson Shaw - "solve the problem"
@@ -85,7 +85,7 @@ dedicated to solving his cases, finding his lost father, protecting his mother a
 
 <div className="newsContainer ">
 <div className="newsTitle">
-<h4 className="portfolioTitle3">Jiro Ashikaga</h4>
+<h2 className="portfolioTitle3">Jiro Ashikaga</h2>
 <p className="newsTitleContent p1">
 "Pal, homie, friend" as he is frequently greeted by the great detective, Jackson Shaw. Does he know Karate, or does he know
 Crazy - otherwise known as Karaze! Honest, true and loyal to his friends - Jiro is both sidekick and master of his own
@@ -116,7 +116,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">The Shaw Legacy</h4>
+<h2 className="portfolioTitle4">The Shaw Legacy</h2>
 <p className="newsTitleContent p1">
 Jackson's father is missing. His mysterious disappearance shakes the humble town of Scotland, Washington to its core.
 For Jackson and others in the town, unearthing the disappearance of Gerald Shaw is a mystery in it's own right. The Shaw
@@ -128,7 +128,7 @@ Legacy is at stake and solving this mystery for our young detective Jackson Shaw
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Melissa Christie</h4>
+<h2 className="portfolioTitle5">Melissa Christie</h2>
 <p className="newsTitleContent p1">
 Oh to celebrate young love and love interests, beating hearts and the pillars of youth! Melissa is vital to the success of our young detective Jackson Shaw, but also a
 distraction and weakness. Whether she shall be a future friend or foe, or survive the fights ahead for Scotland, Washington
@@ -158,7 +158,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Riley Miller</h4>
+<h2 className="portfolioTitle4">Riley Miller</h2>
 <p className="newsTitleContent p1">
 Friend of Jackson or Jiro? Maybe not...this young man is as menacing as he is shady. He's on the Scotland United
 Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington unravel, maybe he will too.
@@ -169,7 +169,7 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Lance Elysian</h4>
+<h2 className="portfolioTitle5">Lance Elysian</h2>
 <p className="newsTitleContent p1">
 Friend or foe? Only time will tell. He is as talented as he is red-headed. Smart and certainly destined for something...
 we shall see his full measure, and perhaps he will help save Scotland and the world at large. Time will tell...
@@ -198,7 +198,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">The Knights Team</h4>
+<h2 className="portfolioTitle4">The Knights Team</h2>
 <p className="newsTitleContent p1">
 Scotland United! Scotland United! Scotland United!
 </p>
@@ -208,7 +208,7 @@ Scotland United! Scotland United! Scotland United!
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">The Mayor</h4>
+<h2 className="portfolioTitle5">The Mayor</h2>
 <p className="newsTitleContent p1">
 Granddaughter of the Founder, Knox McGregor. She is the current steward of Scotland, Washington and serves as the
 mayor (and as a target for BlueHand Corporate cronies). Friend or foe? Ally or in need of protection from herself? A true
@@ -238,7 +238,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Mr. Winston Cavos</h4>
+<h2 className="portfolioTitle4">Mr. Winston Cavos</h2>
 <p className="newsTitleContent p1">
 To be a teacher at Scotland Middle School is to sign up for punishment that only the enemies of Genghis Khan
 know well. Winston Cavos, was a true lover of history and like all residents of Scotland, Washington - has a role to
@@ -250,7 +250,7 @@ play in the mysteries of the city-town.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Dr. Bryan Belarus</h4>
+<h2 className="portfolioTitle5">Dr. Bryan Belarus</h2>
 <p className="newsTitleContent p1">
 Ally, enemy or in-between. A shroud of uncertainty surrounds him as he is both mentor and possible
 Well-trained in the world of science and research, his interests are as vast as his collections featured in his
@@ -281,7 +281,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Alfonzo Quinby - CEO of BlueHand Corp.</h4>
+<h2 className="portfolioTitle4">Alfonzo Quinby - CEO of BlueHand Corp.</h2>
 <p className="newsTitleContent p1">
 The war of good and evil is never straightforward. But the coming battles against BlueHand will certainly
 come close. Quinby is as ruthless as the corporation he represents, the quandaries they both create and represent
@@ -294,7 +294,7 @@ a powerful group or will he succumb to their power.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">BlueHand Corporation</h4>
+<h2 className="portfolioTitle5">BlueHand Corporation</h2>
 <p className="newsTitleContent p1">
 Evil, absolute evil. Diabolical. All they want is money and to take over Scotland, Washington and turn it into their
 testing grounds for their future domination of the human race. It's obvious really. They have contracts with the Navy and Marines, they
@@ -325,7 +325,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">Animal Control</h4>
+<h2 className="portfolioTitle4">Animal Control</h2>
 <p className="newsTitleContent p1">
 Dogs with green eyes and black drool...parrots with tentacles coming out of their beaks...hamster's that glow in the dark...
 Scotland, Washington is full of oddities. Did they escape fro BlueHand corporate, one of their many scattered research labs,
@@ -337,7 +337,7 @@ the Scotland United University? Who is responsible?
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">Coach Gary Adams</h4>
+<h2 className="portfolioTitle5">Coach Gary Adams</h2>
 <p className="newsTitleContent p1">
 Dedicated to hockey and his ever changing hockey team, helping them on their way to greatness.
 Coach Gary Adams was demoted from the high school team to the middle school team but quickly rose to the occasion
@@ -369,7 +369,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4 ">Nurse Winifred Jackie</h4>
+<h2 className="portfolioTitle4 ">Nurse Winifred Jackie</h2>
 <p className="newsTitleContent p1 ">
 Trained in CPR and life saving techniques. Trained in counseling and medication dispensing. Trained in
 physical exam and healing kids from colds and fights. She is confident, focused and dutiful. She, however,
@@ -384,7 +384,7 @@ Do they only have symptoms on a full moon? Children, vampires, werewolves and mu
 
 <div className="newsContainer ">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">The Cafeteria Ladies</h4>
+<h2 className="portfolioTitle5">The Cafeteria Ladies</h2>
 <p className="newsTitleContent p1">
 Salisbury chicken with cream of peas. Carrot and beef stew. Minted ice cream with almond shivers.
 These ladies can make anything, but where's the garlic? Is this beef medium rare? What else do they provide
@@ -409,12 +409,12 @@ alt="newsImage"
 <div className="archivesDiv">
 <h3 className="archivesTitle ">More to Come</h3>
 <span className="archivesText heading3">
-2nd Volume in the Works - Q3/Q4 2023
+2nd Volume in the Works - Q1 2024
 </span>
 </div>
 <div className="archivesDiv">
 <h3 className="archivesTitle">Email the author</h3>
-<span className="archivesText">SBBS.online</span>
+<span className="archivesText">haleverde2020@gmail.com</span>
 </div>
 </section>
 </main>
