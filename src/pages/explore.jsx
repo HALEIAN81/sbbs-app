@@ -40,7 +40,7 @@ routine. There is only one main road into and out of Scotland, WA - along with a
 <img
 className="portfolioImg1"
 src={
-"https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+"https://cdn.discordapp.com/attachments/1070928212042977373/1097062395198849054/RGreen_aerial_view_of_large_pacific_northwest_town_mountains_su_61952851-e920-46d6-818d-0b6e775a1201.png?ex=659a53f9&is=6587def9&hm=be098d564ade3a24da0de8335e81e50581f1c4ebb250ae79b78ccf0675b5d188&"
 }
 alt="newsImage"
 />

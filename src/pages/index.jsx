@@ -24,11 +24,11 @@ The Story of The Best Young Sleuth in the World
 <div className="newsContainer">
 <div className="newsTitle textBox">
 <p className="newsTitleContent p1">
-Welcome. This is where the mysteries of Scotland, Washington
+Welcome.</p>
+<p>This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
-won in our own backyard.
-</p>
+won in our own backyard.</p>
 <p className="newsTitleContent p2">
 Welcome to Scotland Backyard.
 </p>
