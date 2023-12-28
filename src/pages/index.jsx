@@ -34,7 +34,7 @@ Welcome to Scotland Backyard.
 </p>
 </div>
 <section className="news portfolio">
-<h2 className="portfolioHeading glow heading3">
+<h2 className="portfolioHeading heading3">
 Meet the Characters of Scotland Backyard
 </h2>
 <div className="newsContainer">
@@ -196,7 +196,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h2 className="portfolioTitle4">The Knights Team</h2>
+<h2 className="portfolioTitle4"><span className="glow">The Knights Team</span></h2>
 <p className="newsTitleContent p1">
 Scotland United! Scotland United! Scotland United!
 </p>
@@ -323,7 +323,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h2 className="portfolioTitle4">Animal Control</h2>
+<h2 className="portfolioTitle4"><span className="glow">Animal Control</span></h2>
 <p className="newsTitleContent p1">
 Dogs with green eyes and black drool...parrots with tentacles coming out of their beaks...hamster's that glow in the dark...
 Scotland, Washington is full of oddities. Did they escape fro BlueHand corporate, one of their many scattered research labs,
