@@ -29,11 +29,9 @@ have carved out and follow the story through to its end.
 <h2 className="portfolioHeading glow">The Plot Thickens</h2>
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle1">Scotland, Washington</h4>
+<h2 className="portfolioTitle1"><span className="glow">Scotland, Washington</span></h2>
 <p className="newsTitleContent p1">
-Surrounded by mountains, located betwixt Bremerton and Poulsbo cities, there is Scotland, Washington.
-A strange place, filled with the extraordinary from the Navy base and all its experiments and military
-routine. There is only one main road into and out of Scotland, WA - along with all the
+Towering mountains frame Scotland, Washington, a town wedged between Bremerton and Poulsbo like an anomaly nestled amidst towering pines. Whispers of classified Navy projects mingle with the scent of saltwater and echoing drills, hinting at secrets buried deep within. A single road pierces the dense forests, winding like a lifeline through ancient mysteries and chilling tales whispered on the wind. This is Scotland, WA, a place where the extraordinary bleeds into the ordinary, and every shadow seems to hold a story waiting to be unearthed.
 </p>
 </div>
 <div className="newsRight">
@@ -59,12 +57,9 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle2">Scotland United Middle School</h4>
+<h2 className="portfolioTitle2"><span className="glow">Scotland United Middle School</span></h2>
 <p className="newsTitleContent p1">
-One of the first schools created when the town was founded. SUMS is built out of the remnants
-of one of the castle's that was constructed in the town under the tutelage of the towns' founder and
-elder Scotsman - Knox McGregor Sr. He was a fan of knights as he always believe he descended from
-knights and fashioned the school to hold his collection of knight statues and decor.
+Founded alongside the town itself, SUMS rises from the very stones of a castle built by its elder Scotsman and founder, Knox McGregor Sr. His fervent belief in his knightly lineage imbues the classrooms with an air of chivalric adventure, evident in the towering suit of gleaming plate guarding the entrance and the weathered tapestries depicting forgotten battles.
 </p>
 </div>
 </div>
@@ -72,7 +67,7 @@ knights and fashioned the school to hold his collection of knight statues and de
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle3">BlueHand Corporation</h4>
+<h2 className="portfolioTitle3"><span className="glow">BlueHand Corporation</span></h2>
 <p className="newsTitleContent p1">
 BlueHand Corporation has a solid foothold over the town, founded in the 1920s - it has its hands
 into everything from supplying the military, to research and development in the tech and medical industry,
@@ -103,7 +98,7 @@ alt="newsImage"
 />
 </div>
 <div className="newsTitle">
-<h4 className="portfolioTitle4">The Shaw Legacy</h4>
+<h2 className="portfolioTitle4"><span className="glow">The Shaw Legacy</span></h2>
 <p className="newsTitleContent p1">
 Jackson Shaw and his mother Clara Shaw live in the town of Scotland, Washington making a life,
 day by day. Jackson, ever the sleuth and obsessed hockey player is fascinated with uncovering
@@ -115,7 +110,7 @@ all the mysteries of Scotland, Washington.
 
 <div className="newsContainer">
 <div className="newsTitle">
-<h4 className="portfolioTitle5">The Weirdness</h4>
+<h2 className="portfolioTitle5"><span className="glow">The Weirdness of Scotland</span></h2>
 <p className="newsTitleContent p1">
 Between the Navy's experiments and 'accidental mishaps' of BlueHand's secret labs,
 the Scotland University's bolstering hyper-smart young college students and that the area
