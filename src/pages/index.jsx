@@ -13,7 +13,7 @@ SCOTLAND BACKYARD BOOK SERIES
 href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1"
 target="_blank"
 >
-{/* <div className="headerImg"></div> */}
+<div className="headerImg"></div>
 <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-20.png" className="image2" alt="" />
 </a>
 </section>
@@ -23,11 +23,11 @@ The Story of The Best Young Sleuth in the World
 </h2>
 <div className="newsContainer">
 <div className="newsTitle textBox">
-<p className="newsTitleContent p1" style='font-style:italic;'>This is where the mysteries of Scotland, Washington
+<p className="newsTitleContent p1">This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
 won in their own backyard.</p>
-<p className="newsTitleContent p2" style='font-style:italic;'>
+<p className="newsTitleContent p2">
 Welcome to Scotland Backyard.
 </p>
 </div>
