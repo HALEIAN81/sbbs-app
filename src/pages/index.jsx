@@ -26,10 +26,7 @@ The Story of The Best Young Sleuth in the World
 <p className="newsTitleContent p1">This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
-won in their own backyard.</p>
-<p className="newsTitleContent p2">
-Welcome to Scotland Backyard.
-</p>
+won in their own backyard. Welcome.</p>
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading heading3">
