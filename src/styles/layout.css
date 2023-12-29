@@ -94,6 +94,17 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  overflow: hidden;
+  border-radius: 20px;
+  padding-top: 50px;
+}
+.image1{
+  width: 76%;
+  height: auto;
+  border-radius: 14px;
+  margin: 0px 5px;
+}
+.image2{
   width: 96%;
   height: auto;
   border-radius: 14px;
@@ -166,7 +177,7 @@ span {
 .portfolioImg4,
 .portfolioImg5 {
   width: 1000px;
-  height: 320px;
+  height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -408,8 +419,7 @@ span {
   }
   .newsTitle {
     width: 100%;
-    padding: 0px 20px;
-    margin-top:85px;
+    padding: 0 20px;
   }
   .archives {
     flex-direction: column;
@@ -462,11 +472,6 @@ span {
   .headerImg {
     width: 95%;
   }
-  .newsTitle {
-    width: 100%;
-    padding: 20px 20px;
-    margin-top: 75px;
-  }
   .archivesTitle {
     font-size: 20px;
   }
@@ -511,10 +516,5 @@ span {
 @media screen and (max-width: 600px) {
   .pageTitle {
     margin: 0px 0px !important ;
-  }
-  .newsTitle {
-    width: 100%;
-    padding: 0px 20px;
-    margin-top: 75px;
   }
 }
