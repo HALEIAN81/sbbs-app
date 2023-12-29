@@ -409,6 +409,7 @@ span {
   .newsTitle {
     width: 100%;
     padding: 20px 20px;
+    margin-top:75px;
   }
   .archives {
     flex-direction: column;
@@ -464,6 +465,7 @@ span {
   .newsTitle {
     width: 100%;
     padding: 20px 20px;
+    margin-top: 75px;
   }
   .archivesTitle {
     font-size: 20px;
@@ -512,6 +514,7 @@ span {
   }
   .newsTitle {
     width: 100%;
-    padding: 20px 20px;
+    padding: 0px 20px;
+    margin-top: 75px;
   }
 }
