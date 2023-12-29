@@ -408,8 +408,8 @@ span {
   }
   .newsTitle {
     width: 100%;
-    padding: 20px 20px;
-    margin-top:75px;
+    padding: 0px 20px;
+    margin-top:85px;
   }
   .archives {
     flex-direction: column;
