@@ -461,6 +461,10 @@ span {
   .headerImg {
     width: 95%;
   }
+  .newsTitle {
+    width: 100%;
+    padding: 20px 20px;
+  }
   .archivesTitle {
     font-size: 20px;
   }
@@ -505,5 +509,9 @@ span {
 @media screen and (max-width: 600px) {
   .pageTitle {
     margin: 0px 0px !important ;
+  }
+  .newsTitle {
+    width: 100%;
+    padding: 20px 20px;
   }
 }
