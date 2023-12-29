@@ -104,6 +104,12 @@ span {
   border-radius: 14px;
   margin: 0px 5px;
 }
+.image2{
+  width: 96%;
+  height: auto;
+  border-radius: 14px;
+  margin: 0px 5px;
+}
 .news {
   background: #121e34;
   color: white;

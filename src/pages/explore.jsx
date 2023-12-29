@@ -14,7 +14,7 @@ href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NK
 target="_blank"
 >
 {/* <div className="explore-img1"></div> */}
-<img src="https://jodeaux.agency/assets/img/portfolio/portfolio-23.png" className="image1" alt="" />
+<img src="https://jodeaux.agency/assets/img/portfolio/portfolio-23.png" className="image2" alt="" />
 
 
 </a>

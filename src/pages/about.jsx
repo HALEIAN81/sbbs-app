@@ -8,7 +8,7 @@ const About = () => {
       
       
       {/* <div className="about-img1"></div> */}
-      <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-22.png" className="image1" alt="" />
+      <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-22.png" className="image2" alt="" />
 
       
       </a>
