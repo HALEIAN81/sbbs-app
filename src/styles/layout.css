@@ -94,17 +94,6 @@ span {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  overflow: hidden;
-  border-radius: 20px;
-  padding-top: 50px;
-}
-.image1{
-  width: 76%;
-  height: auto;
-  border-radius: 14px;
-  margin: 0px 5px;
-}
-.image2{
   width: 96%;
   height: auto;
   border-radius: 14px;
@@ -419,7 +408,7 @@ span {
   }
   .newsTitle {
     width: 100%;
-    padding: 0 20px;
+    padding: 20px 20px;
   }
   .archives {
     flex-direction: column;
