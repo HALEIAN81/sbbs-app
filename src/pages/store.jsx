@@ -2,6 +2,13 @@ import React from "react";
 
 const Store = () => {
   return (
+    <>
+    <head>
+        {/* Add your meta tags here */}
+        <meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
+        <meta name="keywords" content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington, Adventure and Mystery Book Series, Buy Children Mystery Books" />
+        <title>Support Scotland Backyard Book Series by Hale Verde | Online Store</title>
+</head>
     <div className="store glow">
       <h3 className="pageTitle">Store</h3>
       <a
@@ -27,6 +34,7 @@ const Store = () => {
         unfolds.
       </p>
     </div>
+    </>
   );
 };
 

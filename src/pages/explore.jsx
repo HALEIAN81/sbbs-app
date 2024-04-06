@@ -4,6 +4,12 @@ import React from "react";
 const Explore = () => {
 return (
 <>
+<head>
+        {/* Add your meta tags here */}
+        <meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
+        <meta name="keywords" content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington, Adventure and Mystery Book Series" />
+        <title>Explore Scotland Backyard Book Series by Hale Verde</title>
+</head>
 <div className="explore">
 <h3 style={{margin:"0px"}} className="pageTitle glow sb-title heading2">
 Explore Scotland Backyard

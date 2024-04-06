@@ -2,6 +2,13 @@ import React from "react";
 
 const Author = () => {
   return (
+    <>
+    <head>
+        {/* Add your meta tags here */}
+        <meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
+        <meta name="keywords" content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington, Author - Hale Verde" />
+        <title>Meet the Author of Scotland Backyard Book Series | Hale Verde</title>
+</head>
     <div className="author">
       <h3 className="pageTitle sb-title glow heading2">Meet the Author</h3>
       {/* <div className="authorImg"></div> */}
@@ -27,6 +34,7 @@ const Author = () => {
         You can email the author at haleverde2020@gmail.com <span className="glow">:)</span>
       </p>
     </div>
+    </>
   );
 };
 
