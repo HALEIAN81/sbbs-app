@@ -44,7 +44,7 @@ Towering mountains frame Scotland, Washington, a town wedged between Bremerton a
 <img
 className="portfolioImg1"
 src={
-"https://cdn.discordapp.com/attachments/1070928212042977373/1097062395198849054/RGreen_aerial_view_of_large_pacific_northwest_town_mountains_su_61952851-e920-46d6-818d-0b6e775a1201.png?ex=659a53f9&is=6587def9&hm=be098d564ade3a24da0de8335e81e50581f1c4ebb250ae79b78ccf0675b5d188&"
+"https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
 }
 alt="newsImage"
 />
@@ -57,7 +57,7 @@ alt="newsImage"
 <img
 className="portfolioImg2"
 src={
-"https://cdn.discordapp.com/attachments/1070928212042977373/1087774957074907268/HaleVerde_large_castle_like_building_with_modern_glass_and_meta_ec4c471e-cc3a-44da-8725-692ac2217aac.png?ex=659d745f&is=658aff5f&hm=eeac0abb9f08d48ee477b44cad212628e5e51eece675d035253d3c27a64b3af9&"
+"https://jodeaux.agency/assets/img/portfolio/sb_ms_img_mini.png"
 }
 alt="newsImage"
 />
@@ -85,7 +85,7 @@ have dedicated there young lives to uncovering its atrocities and wrong-doings.
 <img
 className="portfolioImg3"
 src={
-"https://cdn.discordapp.com/attachments/1070928212042977373/1097045293717004288/RGreen_evil_corporation_dozens_of_people_sitting_at_an_evil_tab_e6cf1fb6-26e3-4fec-a9c4-c56c5655e352.png?ex=659a440c&is=6587cf0c&hm=b7b804d4e71a6ac919ccbe3ab1319bc444db010b03d06edcdc76240ff3a415e8&"
+"https://jodeaux.agency/assets/img/portfolio/bluehand2_img-mini.png"
 }
 alt="newsImage"
 />
