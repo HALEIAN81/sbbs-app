@@ -53,7 +53,7 @@ Surrounded by mountains, bounded by the shores of the Pacific Ocean and nested w
 <img
 className="portfolioImg1"
 src={
-"https://cdn.discordapp.com/attachments/1070928212042977373/1091017644154560562/HaleVerde_city_planning_blueprint_of_large_city_with_castle_lik_b437c600-1078-437a-abf5-1f87a234ca54.png"
+"https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
 }
 alt="newsImage"
 />
