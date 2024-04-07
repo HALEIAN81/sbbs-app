@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow+Condensed&family=Exo+2&family=Henny+Penny&family=Rye&family=Sacramento&family=Tinos&display=swap");
 
+
+main {
+    cursor: url('https://jodeaux.agency/assets/img/portfolio/bluehand_img_mini-tp.png'), auto;
+}
+
 .header {
   background-color: #121e34;
   width: 100%;
