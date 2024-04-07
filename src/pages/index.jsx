@@ -4,6 +4,7 @@ import React from "react";
 const index = () => {
 return (
 <>
+<Cursor className="custom-cursor">
 <head>
         {/* Add your meta tags here */}
         <meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
@@ -417,6 +418,7 @@ alt="newsImage"
 </div>
 </section>
 </main>
+</Cursor>
 </>
 );
 };
