@@ -12,18 +12,23 @@ const Author = () => {
     <div className="author">
       <h3 className="pageTitle sb-title glow heading2">Meet the Author</h3>
       {/* <div className="authorImg"></div> */}
-      <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-18.png" className="image1" alt="" />
+      <img style="width: 600px height: 800px;" src="https://jodeaux.agency/assets/img/portfolio/portfolio-18.png" className="image1" alt="Hale Verde the author standing with his three children" />
 
       <p className="p-quote glow heading2">
         "I believe, life itself is the greatest mystery - but to add our own unique experiences and creative endeavors is to uncover that mystery every day."  
       </p>
       <p className="p-author glow heading2">- Hale Verde</p>
       <p className="story-summary p1">
+        Hale Verde is a physician, software engineer spending his time in Charleston, South Carolina and Hilo, Hawaii. He enjoys aquascaping, playing and making video games, 3D art and design, writing children's novels and trying to make the world a better place one project at a time. In other words, he has serious ADHD :). He has three wonderful children who he hopes will find their own creative outlet and to also help to mold and shape the world in their own way. He has other works featured on Amazon including <span className="glow">The Little Robot That Could"</span> and now the Scotland Backyard Series with many more to come.
+      </p>
+      <p className="story-summary p1">
         The story of Jackson, Jira and Melissa is a budding story of individual heroism, unwavering dedication and the 
-        depth of character even in the world of fiction.</p>
-        <p className="story-summary p1">I hope that those that read our book and those that follow
+        depth of character even in the world of fiction.
+      </p>
+        <p className="story-summary p1">I hope that those that read this book and those that follow
         can be captivated by their journey sharing in their triumphs and unraveling the captivating enigma of BlueHand.
-        I hope that our readers will discover a love for that 'unwinding' of their mystery and learn more about Scotland, Washington and as such - Scotland Backyard.</p>
+        I hope that our readers will discover a love for that 'unwinding' of their mystery and learn more about Scotland, Washington and as such - Scotland Backyard.
+      </p>
       <p className="next-book  ">
         Please look out for <span>Scotland Backyard - Volume II - The Warlock's Cabal</span> coming out Q1 2024 on Amazon and other sellers.
       </p>
