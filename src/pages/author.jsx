@@ -12,7 +12,7 @@ const Author = () => {
     <div className="author">
       <h3 className="pageTitle sb-title glow heading2">Meet the Author</h3>
       {/* <div className="authorImg"></div> */}
-      <img style="width: 600px height: 800px;" src="https://jodeaux.agency/assets/img/portfolio/portfolio-18.png" className="image1" alt="Hale Verde the author standing with his three children" />
+      <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-18.png" className="image1" alt="Hale Verde the author standing with his three children" />
 
       <p className="p-quote glow heading2">
         "I believe, life itself is the greatest mystery - but to add our own unique experiences and creative endeavors is to uncover that mystery every day."  
