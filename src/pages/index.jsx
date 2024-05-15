@@ -5,10 +5,10 @@ const index = () => {
 return (
 <>
 <head>
-        {/* Add your meta tags here */}
-        <meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
-        <meta name="keywords" content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington" />
-        <title>Scotland Backyard Book Series by Hale Verde</title>
+
+<meta name="description" content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation." />
+<meta name="keywords" content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington" />
+<title>Scotland Backyard Book Series by Hale Verde</title>
 </head>
 <main className="main">
 <section className="hero">
@@ -32,7 +32,8 @@ The Story of The Best Young Sleuth in the World
 <p className="newsTitleContent p1">This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
-won in their own backyard. Welcome.</p>
+won in their own backyard. Welcome.
+</p>
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading heading3">
@@ -393,8 +394,6 @@ Trained in CPR and life saving techniques. Trained in counseling and medication 
 physical exam and healing kids from colds and fights. She is confident, focused and dutiful. She, however,
 is not trained in assessment of possible vampires, werewolves...are they allergic to her silver laced watch?
 Do they only have symptoms on a full moon? Children, vampires, werewolves and much more - oh my!
-
-
 </p>
 </div>
 </div>
@@ -423,16 +422,18 @@ alt="newsImage"
 </section>
 </div>
 </section>
+
+
 <section className="archives">
 <div className="archivesDiv">
 <h3 className="archivesTitle ">More to Come</h3>
 <span className="archivesText heading3">
-2nd Volume in the Works - Q1 2024
+3rd Volume in the Works - Q3 2024
 </span>
 </div>
 <div className="archivesDiv">
 <h3 className="archivesTitle">Email the author</h3>
-<span className="glow">haleverde2020@gmail.com</span>
+<span>haleverde2020@gmail.com</span>
 </div>
 </section>
 </main>
