@@ -80,28 +80,6 @@ dedicated to solving his cases, finding his lost father, protecting his mother a
 </div>
 </div>
 
-
-<div className="newsContainer column-reverse ">
-<div className="newsRight">
-<img
-className="portfolioImg2"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-21.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle2"><span className="glow">Jackson Shaw - The Great Detective</span></h2>
-<p className="newsTitleContent p1">
-Hero? Detective? Center for Scotland United? His destiny is as mysterious as his abilities. Jackson is dedicated, truly
-dedicated to solving his cases, finding his lost father, protecting his mother and his friends. Jackson Shaw - "solve the problem"
-- is he up to the tasks he will be confronted with. You...our readers...shall see.
-</p>
-</div>
-</div>
-
-
 <div className="newsContainer ">
 <div className="newsTitle">
 <h2 className="portfolioTitle3"><span className="glow">Jiro Ashikaga</span></h2>
