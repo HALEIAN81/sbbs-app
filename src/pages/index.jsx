@@ -61,17 +61,17 @@ alt="newsImage"
 </div>
 </div>
 
-<div id="news-card" class="card">
-<div class="card-body">
-<img id="news-image" class="card-img-top"
+<div id="news-card" className="card card-with-background">
+<div className="card-body">
+<img id="news-image" className="card-img-top"
 src="https://jodeaux.agency/assets/img/portfolio/portfolio-21.png"
 alt="newsImage"
 />
-<div class="card-text">
-<h2 class="card-title">
-<span class="glow">Jackson Shaw - The Great Detective</span>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Jackson Shaw - The Great Detective</span>
 </h2>
-<p class="card-content">
+<p className="card-content">
 Hero? Detective? Center for Scotland United? His destiny is as mysterious as his abilities. Jackson is dedicated, truly
 dedicated to solving his cases, finding his lost father, protecting his mother and his friends. Jackson Shaw - "solve the problem"
 - is he up to the tasks he will be confronted with. You...our readers...shall see.
