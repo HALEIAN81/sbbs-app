@@ -62,7 +62,11 @@ alt="newsImage"
 </div>
 
 <div id="news-card" className="card card-with-background">
-<div className="card-body" style="background-image: url('/assets/bg_gradient_sb.png'); background-size: cover; background-position: center;">
+<div className="card-body" style={{
+backgroundImage: "url('assets/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
 <img id="news-image" className="card-img-top"
 src="https://jodeaux.agency/assets/img/portfolio/portfolio-21.png"
 alt="newsImage"
