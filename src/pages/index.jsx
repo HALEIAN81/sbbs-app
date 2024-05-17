@@ -63,7 +63,7 @@ alt="newsImage"
 
 <div id="news-card" className="card card-with-background">
 <div className="card-body" style={{
-backgroundImage: "url('assets/bg_gradient_sb.png')",
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
 backgroundSize: "cover",
 backgroundPosition: "center",
 }}>
@@ -82,27 +82,26 @@ Wrapped in enigma, Jackson Shaw's purpose is as shrouded as his talents. A beaco
 </div>
 </div>
 
-<div className="newsContainer ">
-<div className="newsTitle">
-<h2 className="portfolioTitle3"><span className="glow">Jiro Ashikaga</span></h2>
-<p className="newsTitleContent p1">
-"Pal, homie, friend" as he is frequently greeted by the great detective, Jackson Shaw. Does he know Karate, or does he know
-Crazy - otherwise known as Karaze! Honest, true and loyal to his friends - Jiro is both sidekick and master of his own
-domains. Grow with Jiro, see him glow and aid his friend Jackson in his quest to save Scotland, Washington and maybe the whole
-world.
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg3"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-45.png"
-}
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-45.png"
 alt="newsImage"
 />
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Jiro Ashikaga</span>
+</h2>
+<p className="card-content">
+Jiro. The name that sends shivers down the spines of criminals and a warm smile across Jackson Shaw's face. More than just a "pal" or "homie," Jiro is the loyal confidante and secret weapon Jackson relies on. Don't be fooled by his easygoing demeanor – Jiro's a master of the elusive fighting style known as Karaze. A whirlwind of loyalty and hidden talent, Jiro stands by Jackson's side, ready to face any threat, from the streets of Scotland, Washington, to the fate of the world itself. Witness Jiro's journey – a loyal friend destined to shine.
+</p>
 </div>
 </div>
-
+</div>
 
 <div className="newsContainer column-reverse">
 <div className="newsRight">
