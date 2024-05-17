@@ -584,6 +584,7 @@ span {
     line-height: 1.5;
     color: white;
     text-align: center;
-    width: 400px;
+    width: 350px;
+    margin: auto;
   }
 }

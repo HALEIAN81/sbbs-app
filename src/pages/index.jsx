@@ -103,49 +103,261 @@ Jiro. The name that sends shivers down the spines of criminals and a warm smile 
 </div>
 </div>
 
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-46.png"
-}
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-52.png"
 alt="newsImage"
 />
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">The Shaw Legacy</span></h2>
-<p className="newsTitleContent p1">
-Jackson's father is missing. His mysterious disappearance shakes the humble town of Scotland, Washington to its core.
-For Jackson and others in the town, unearthing the disappearance of Gerald Shaw is a mystery in it's own right. The Shaw
-Legacy is at stake and solving this mystery for our young detective Jackson Shaw, may prove to be his greatest case.
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Melissa Christie</span>
+</h2>
+<p className="card-content">
+Melissa. A name that stirs both affection and unease in the heart of Jackson Shaw. Her presence is a beacon of youthful energy, a stark contrast to the shadows Jackson navigates. But beneath the charm lies a fierce spirit, a potential ally in his fight for Scotland, Washington. Will she succumb to the dangers that lie ahead, or will she rise as an unexpected pillar of strength? Melissa's path remains shrouded in mystery – a friend, a lover, or a pawn in a larger game? Only time will reveal the role she'll play in the trials to come.
 </p>
 </div>
 </div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">Melissa Christie</span></h2>
-<p className="newsTitleContent p1">
-Oh to celebrate young love and love interests, beating hearts and the pillars of youth! Melissa is vital to the success of our young detective Jackson Shaw, but also a
-distraction and weakness. Whether she shall be a future friend or foe, or survive the fights ahead for Scotland, Washington
-shall be her true test. What role shall she play in the trials ahead?
-</p>
 </div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-52.png"
-}
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-55.png"
 alt="newsImage"
 />
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Lance Elysian</span>
+</h2>
+<p className="card-content">
+A fiery mane of red hair announces his arrival, but his true intentions remain shrouded in mystery. Is he friend or foe? His sharp intellect and undeniable talent hint at a destiny far greater than meets the eye. We sense a potent force within him, a force that could either tip the scales of fate or shatter them entirely. Will he rise as the unlikely savior of Scotland, Washington, and perhaps the entire world? Only time will reveal the full measure of this enigmatic redhead.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-48.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Scotland United Knights Team</span>
+</h2>
+<p className="card-content">
+Scotland United! Scotland United! Scotland United!
+</p>
+</div>
 </div>
 </div>
 
 
-<div className="newsContainer column-reverse">
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-46.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Shaw Legacy</span>
+</h2>
+<p className="card-content">
+A chilling silence hangs over Scotland, Washington. The town, once a haven of familiarity, is now shrouded in the mystery of Gerald Shaw's disappearance. His absence strikes a deep chord, especially for his son, Jackson. Unearthing the truth becomes more than just a case for the young detective; it's a personal vendetta, a desperate attempt to reclaim a shattered past. The Shaw legacy hangs in the balance, and for Jackson, solving this puzzle may very well be his defining moment.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-44.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Mayor, Katherine McGregor</span>
+</h2>
+<p className="card-content">
+Knox McGregor Sr. casts a long shadow, and his granddaughter, Mayor McGregor, bears the weight of his legacy. As the current steward of Scotland, Washington, she embodies the town's spirit – fiercely independent and resistant to outside forces, particularly the greedy claws of BlueHand Corporation. But beneath the strong exterior lies a vulnerability. Is she a capable leader, a potential ally in the fight against corporate tyranny? Or is she a target for manipulation, a pawn in a larger game? Mayor McGregor is a riddle wrapped in an enigma, a case waiting to be unraveled.
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-56.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Mr. Winston Cavos</span>
+</h2>
+<p className="card-content">
+Teaching at Scotland Middle School isn't for the faint of heart. It's a crucible that would make even Genghis Khan's enemies wince. Yet, Winston Cavos thrives on the chaos. A true history buff, he sees beyond the detention slips and cafeteria meltdowns. Like every resident of Scotland, Washington, Winston is entangled in the town's enigmatic web.  Could this unassuming teacher be a key player in unraveling the mysteries that grip the town?
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-54.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Dr. Bryan Belarus</span>
+</h2>
+<p className="card-content">
+An aura of ambiguity clings to Dr. Belarus.  Mentor and potential enigma, he navigates the halls of Scotland Middle School with an air of quiet intrigue.  A scientific prodigy with a vast collection of curiosities lining his classroom walls, his thirst for knowledge seems boundless.  However, his dependence on BlueHand Corporation for supplies casts a long shadow.  Can he be trusted in the development of our young heroes, or is his loyalty divided?  The depth of his connection to BlueHand remains a troubling mystery.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-51.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">>Dr. Alfonzo Quinby - CEO of BlueHand Corp.</span>
+</h2>
+<p className="card-content">
+The war between good and evil rarely unfolds in black and white, but the coming clash with BlueHand Corporation threatens to paint Scotland, Washington in stark shades of power and resistance. Quinby, BlueHand's ruthless ambassador, embodies the corporation's relentless pursuit of control. The challenges they represent are as boundless as their ambitions. Can a young detective like Jackson Shaw stand against such a well-oiled machine? Or will his unwavering determination crumble under their immense pressure?  The battle lines are drawn, and the fate of Scotland, Washington hangs in the balance.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-59.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">>BlueHand Corporation</span>
+</h2>
+<p className="card-content">
+BlueHand Corporation isn't your typical villain. They don't wear black capes or cackle maniacally. Their ambition is far more insidious – a slow, calculated infiltration. They've woven themselves into the very fabric of Scotland, Washington – the hospital, the schools, even the military contracts. Their motives remain shrouded, but their influence is undeniable. Is their ultimate goal to control the town... or to use it as a sinister testing ground for something far more sinister?  Can our young heroes possibly unravel BlueHand's web of control before it's too late? The fight for Scotland, Washington is a fight for freedom itself, and the outcome hangs in the balance.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-57.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">>Animal Control</span>
+</h2>
+<p className="card-content">
+Scotland, Washington – a town shrouded in a veil of peculiarity. Whispers of unearthly creatures with glowing hamsters, green-eyed hounds with inky drool, and parrots sporting tentacles have become unsettling realities. Did these oddities escape the clutches of BlueHand Corporation's sprawling research labs, or perhaps from the enigmatic Scotland United University? The lines between scientific innovation and monstrous creation blur in this town.  The question of who – or what – is responsible hangs heavy in the air, a chilling precursor to a potential nightmare.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-53.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Coach Gary Adams</span>
+</h2>
+<p className="card-content">
+Coach Gary Adams bleeds hockey. From cheering on the pros to coaching high school, the rink is his second home. Now, a twist of fate (or a questionable call by the athletic director) has landed him as the head coach of the Scotland United Middle School team.  Undeterred, Coach Adams sees an opportunity to mold young talent into future stars.  He's got his sights set on making these middle schoolers a national force – even if their rivals, the Midland Cobras, have a mascot with questionable dance moves. So, when the team starts acting strangely just before the season, Coach Adams takes it in stride. After all, it wouldn't be hockey in Scotland, Washington without a dash of the unexpected. Get ready for a season filled with grit, determination, and maybe even a few glowing pucks – this is Scotland Hockey!
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-58.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Nurse Winifred Jackie</span>
+</h2>
+<p className="card-content">
+Nurse Mallory is the rock of Scotland Middle School. CPR? Check. Bandaging scraped knees? In her sleep. Dispersing cough syrup and teenage angst? All in a day's work. But nothing in her training prepared her for the recent influx of...unusual ailments.  It seems silver isn't just a fashion statement for her watch anymore.  And are those fangs peeking out from behind little Timmy's braces?  Full moon blues or genuine lycanthropy? Nurse Mallory's got her work cut out for her.  Between dodging potential bloodsuckers and calming down werewolf meltdowns, one thing's for sure: this school nurse has seen it all (and maybe even a little more than she bargained for).
+</p>
+</div>
+</div>
+</div>
+
+{/* <div className="newsContainer column-reverse">
 <div className="newsRight">
 <img
 className="portfolioImg4"
@@ -162,242 +374,29 @@ Friend of Jackson or Jiro? Maybe not...this young man is as menacing as he is sh
 Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington unravel, maybe he will too.
 </p>
 </div>
-</div>
+</div> */}
 
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">Lance Elysian</span></h2>
-<p className="newsTitleContent p1">
-Friend or foe? Only time will tell. He is as talented as he is red-headed. Smart and certainly destined for something...
-we shall see his full measure, and perhaps he will help save Scotland and the world at large. Time will tell...
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-55.png"
-}
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-49.png"
 alt="newsImage"
 />
-</div>
-</div>
-
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-48.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">The Knights Team</span></h2>
-<p className="newsTitleContent p1">
-Scotland United! Scotland United! Scotland United!
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Cafeteria Ladies</span>
+</h2>
+<p className="card-content">
+The aroma of Mrs. Peabody's Salisbury steak with creamed peas is enough to lure even the pickiest eater.  Carrot and beef stew simmers cheerfully, promising a hearty lunch.  And for dessert? A scoop of mint ice cream studded with "almond shivers" (don't ask, don't tell).  The cafeteria ladies at Scotland United Middle School are culinary magicians...almost.  Sure, the garlic might be a bit on the shy side (ahem, vampires?), and the definition of "medium-rare" seems to be a moving target.  But hey, when your classmates include a mysterious new student with glowing eyes and a lunch lady with a suspiciously silver necklace, who can be too picky?  One thing's for sure – lunchtime at Scotland United is an adventure for the taste buds and the imagination.
 </p>
 </div>
 </div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">The Mayor</span></h2>
-<p className="newsTitleContent p1">
-Granddaughter of the Founder, Knox McGregor. She is the current steward of Scotland, Washington and serves as the
-mayor (and as a target for BlueHand Corporate cronies). Friend or foe? Ally or in need of protection from herself? A true
-mystery and case all by herself, Mayor McGregor.
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-44.png"
-}
-alt="newsImage"
-/>
-</div>
 </div>
 
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-56.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">Mr. Winston Cavos</span></h2>
-<p className="newsTitleContent p1">
-To be a teacher at Scotland Middle School is to sign up for punishment that only the enemies of Genghis Khan
-know well. Winston Cavos, was a true lover of history and like all residents of Scotland, Washington - has a role to
-play in the mysteries of the city-town.
-</p>
-</div>
-</div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">Dr. Bryan Belarus</span></h2>
-<p className="newsTitleContent p1">
-Ally, enemy or in-between. A shroud of uncertainty surrounds him as he is both mentor and possible
-Well-trained in the world of science and research, his interests are as vast as his collections featured in his
-middle school classroom. He relies heavily on BlueHand for supplies, can he be trusted in the development of our
-budding heroes. How deep does his relationship with BlueHand go.
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-54.png"
-}
-alt="newsImage"
-/>
-</div>
-</div>
-
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-51.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">Dr. Alfonzo Quinby - CEO of BlueHand Corp.</span></h2>
-<p className="newsTitleContent p1">
-The war of good and evil is never straightforward. But the coming battles against BlueHand will certainly
-come close. Quinby is as ruthless as the corporation he represents, the quandaries they both create and represent
-are boundless for the city-town of Scotland, Washington. Can our young detective Jackson Shaw ever hope to thwart such
-a powerful group or will he succumb to their power.
-</p>
-</div>
-</div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">BlueHand Corporation</span></h2>
-<p className="newsTitleContent p1">
-Evil, absolute evil. Diabolical. All they want is money and to take over Scotland, Washington and turn it into their
-testing grounds for their future domination of the human race. It's obvious really. They have contracts with the Navy and Marines, they
-own the hospital and research facilities, the university and the local high school and middle school. Can our heroes thwart
-their efforts to rule and enslave all of Scotland, Washington. Who will be victorious? Can anyone be victorious?
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-59.png"
-}
-alt="newsImage"
-/>
-</div>
-</div>
-
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-57.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">Animal Control</span></h2>
-<p className="newsTitleContent p1">
-Dogs with green eyes and black drool...parrots with tentacles coming out of their beaks...hamster's that glow in the dark...
-Scotland, Washington is full of oddities. Did they escape fro BlueHand corporate, one of their many scattered research labs,
-the Scotland United University? Who is responsible?
-</p>
-</div>
-</div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">Coach Gary Adams</span></h2>
-<p className="newsTitleContent p1">
-Dedicated to hockey and his ever changing hockey team, helping them on their way to greatness.
-Coach Gary Adams was demoted from the high school team to the middle school team but quickly rose to the occasion
-and has aims to make the Scotland United Middle School hockey team one of the best in the nation. Their rivals are fierce
-and a lot is at stake as the season begins. Midland Cobras, no problem...mascot acting weird, no problem...team acting weird all of a
-sudden - yeah, well maybe a problem, but that's Scotland Hockey!
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-53.png"
-}
-alt="newsImage"
-/>
-</div>
-</div>
-
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-58.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4 "><span className="glow">Nurse Winifred Jackie</span></h2>
-<p className="newsTitleContent p1 ">
-Trained in CPR and life saving techniques. Trained in counseling and medication dispensing. Trained in
-physical exam and healing kids from colds and fights. She is confident, focused and dutiful. She, however,
-is not trained in assessment of possible vampires, werewolves...are they allergic to her silver laced watch?
-Do they only have symptoms on a full moon? Children, vampires, werewolves and much more - oh my!
-</p>
-</div>
-</div>
-
-
-<div className="newsContainer ">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">The Cafeteria Ladies</span></h2>
-<p className="newsTitleContent p1">
-Salisbury chicken with cream of peas. Carrot and beef stew. Minted ice cream with almond shivers.
-These ladies can make anything, but where's the garlic? Is this beef medium rare? What else do they provide
-while trying to provide edible services for our young heroes and the mysterious groups that are a part of
-Scotland United Middle School.
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-49.png"
-}
-alt="newsImage"
-/>
-</div>
-</div>
 </section>
 </div>
 </section>
