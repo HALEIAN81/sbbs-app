@@ -72,9 +72,7 @@ alt="newsImage"
 <span className="glow">Jackson Shaw - The Great Detective</span>
 </h2>
 <p className="card-content">
-Hero? Detective? Center for Scotland United? His destiny is as mysterious as his abilities. Jackson is dedicated, truly
-dedicated to solving his cases, finding his lost father, protecting his mother and his friends. Jackson Shaw - "solve the problem"
-- is he up to the tasks he will be confronted with. You...our readers...shall see.
+Wrapped in enigma, Jackson Shaw's purpose is as shrouded as his talents. A beacon of resolve, he relentlessly pursues the truth – solving mysteries, searching for his missing father, and fiercely guarding his loved ones. Jackson Shaw embodies the mantra: "solve the problem." But will his unwavering determination be enough to face the challenges that loom ahead? Only time, and you, the reader, will tell.
 </p>
 </div>
 </div>
