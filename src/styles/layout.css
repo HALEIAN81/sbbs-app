@@ -365,7 +365,7 @@ span {
   /* Adjust image size as needed */
   width: 100%;
   height: 400px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .card-title {
@@ -384,7 +384,7 @@ span {
 }
 
 .card-with-background {
-  background-image: url("assets/bg_gradient_sb.png"); /* Replace with your image URL */
+  background-image: url("/assets/bg_gradient_sb.png"); /* Replace with your image URL */
   background-size: cover; /* Fills the entire card area */
   background-position: center; /* Centers the image within the card */
 }
