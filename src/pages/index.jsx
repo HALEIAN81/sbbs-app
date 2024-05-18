@@ -37,7 +37,7 @@ won in their own backyard. Welcome.
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading heading3">
-Meet the Characters of Scotland Backyard
+Meet the Characters of Scotland Backyard Volume I: The Knights' Array
 </h2>
 <div className="newsContainer">
 <div className="newsTitle">
@@ -264,7 +264,7 @@ alt="newsImage"
 />
 <div className="card-text">
 <h2 className="card-title">
-<span className="glow">>Dr. Alfonzo Quinby - CEO of BlueHand Corp.</span>
+<span className="glow">Dr. Alfonzo Quinby - CEO of BlueHand Corp.</span>
 </h2>
 <p className="card-content">
 The war between good and evil rarely unfolds in black and white, but the coming clash with BlueHand Corporation threatens to paint Scotland, Washington in stark shades of power and resistance. Quinby, BlueHand's ruthless ambassador, embodies the corporation's relentless pursuit of control. The challenges they represent are as boundless as their ambitions. Can a young detective like Jackson Shaw stand against such a well-oiled machine? Or will his unwavering determination crumble under their immense pressure?  The battle lines are drawn, and the fate of Scotland, Washington hangs in the balance.
@@ -285,7 +285,7 @@ alt="newsImage"
 />
 <div className="card-text">
 <h2 className="card-title">
-<span className="glow">>BlueHand Corporation</span>
+<span className="glow">BlueHand Corporation</span>
 </h2>
 <p className="card-content">
 BlueHand Corporation isn't your typical villain. They don't wear black capes or cackle maniacally. Their ambition is far more insidious – a slow, calculated infiltration. They've woven themselves into the very fabric of Scotland, Washington – the hospital, the schools, even the military contracts. Their motives remain shrouded, but their influence is undeniable. Is their ultimate goal to control the town... or to use it as a sinister testing ground for something far more sinister?  Can our young heroes possibly unravel BlueHand's web of control before it's too late? The fight for Scotland, Washington is a fight for freedom itself, and the outcome hangs in the balance.
@@ -306,7 +306,7 @@ alt="newsImage"
 />
 <div className="card-text">
 <h2 className="card-title">
-<span className="glow">>Animal Control</span>
+<span className="glow">Animal Control</span>
 </h2>
 <p className="card-content">
 Scotland, Washington – a town shrouded in a veil of peculiarity. Whispers of unearthly creatures with glowing hamsters, green-eyed hounds with inky drool, and parrots sporting tentacles have become unsettling realities. Did these oddities escape the clutches of BlueHand Corporation's sprawling research labs, or perhaps from the enigmatic Scotland United University? The lines between scientific innovation and monstrous creation blur in this town.  The question of who – or what – is responsible hangs heavy in the air, a chilling precursor to a potential nightmare.
@@ -348,7 +348,7 @@ alt="newsImage"
 />
 <div className="card-text">
 <h2 className="card-title">
-<span className="glow">Nurse Winifred Jackie</span>
+<span className="glow">Nurse Winifred Mallory</span>
 </h2>
 <p className="card-content">
 Nurse Mallory is the rock of Scotland Middle School. CPR? Check. Bandaging scraped knees? In her sleep. Dispersing cough syrup and teenage angst? All in a day's work. But nothing in her training prepared her for the recent influx of...unusual ailments.  It seems silver isn't just a fashion statement for her watch anymore.  And are those fangs peeking out from behind little Timmy's braces?  Full moon blues or genuine lycanthropy? Nurse Mallory's got her work cut out for her.  Between dodging potential bloodsuckers and calming down werewolf meltdowns, one thing's for sure: this school nurse has seen it all (and maybe even a little more than she bargained for).
@@ -394,6 +394,27 @@ alt="newsImage"
 The aroma of Mrs. Peabody's Salisbury steak with creamed peas is enough to lure even the pickiest eater.  Carrot and beef stew simmers cheerfully, promising a hearty lunch.  And for dessert? A scoop of mint ice cream studded with "almond shivers" (don't ask, don't tell).  The cafeteria ladies at Scotland United Middle School are culinary magicians...almost.  Sure, the garlic might be a bit on the shy side (ahem, vampires?), and the definition of "medium-rare" seems to be a moving target.  But hey, when your classmates include a mysterious new student with glowing eyes and a lunch lady with a suspiciously silver necklace, who can be too picky?  One thing's for sure – lunchtime at Scotland United is an adventure for the taste buds and the imagination.
 </p>
 </div>
+</div>
+</div>
+
+<h2 className="portfolioHeading heading3">
+Meet the Characters of Scotland Backyard Volume II: The Warlock's Cabal
+</h2>
+<div className="newsContainer">
+<div className="newsTitle">
+<h2 className="portfolioTitle1"><span className="glow">A Legacy of Knights and Secrets: Scotland United Middle School</span></h2>
+<p className="newsTitleContent p1">
+Scotland United Middle School wasn't always a place of textbooks and teenage angst.  It began as a grand ambition – a majestic castle, a museum dedicated to the legends of knights throughout history.  However, time and circumstance transformed this monument to chivalry into a center of learning.  Yet, beneath the polished facade and sleek glass redesign lies a heart of mystery.  The very foundation rests upon a network of unexplored tunnels, a relic of its former glory.  These shadowed passageways serve as an unseen meeting ground, a place where the whispers of history mingle with the murmurs of...stranger groups.  What secrets lie hidden within these walls?  What unseen forces gather in the darkness below?  Scotland United Middle School may be a school, but its legacy is steeped in intrigue, a breeding ground for the extraordinary waiting to be unearthed. 
+</p>
+</div>
+<div className="newsRight">
+<img
+className="portfolioImg1"
+src={
+"https://jodeaux.agency/assets/img/portfolio/sb_ms_img_mini.png"
+}
+alt="newsImage"
+/>
 </div>
 </div>
 
