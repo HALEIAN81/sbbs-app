@@ -33,9 +33,9 @@ const Header = () => {
           <img onClick={handleMunuIcon} className="hemburguricon" src={hamburgerIcon.src} />
 
           <div style={{ display: first }} className="hemburgurIconBox">
-            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/about">
+            {/* <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/about">
               About
-            </Link>
+            </Link> */}
             <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/author">
               Author
             </Link>
