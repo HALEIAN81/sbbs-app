@@ -49,7 +49,7 @@ const Store = () => {
                 id="news-image"
                 className="card-img-top"
                 src="https://jodeaux.agency/assets/img/portfolio/sb_coverII_mini.png"
-                alt="Scotland Backyard - Volume I: The Knights' Array"
+                alt="Scotland Backyard - Volume II: The Warlock's Cabal"
               />
             </a>
             <div className="card-text">
@@ -65,6 +65,37 @@ const Store = () => {
         <p className="store-text heading3">
           Please celebrate with us as a new tale of adventure, mystery and action unfolds.
         </p>
+        <p className="store-text heading3">
+          Other published works by Hale Verde:
+        </p>
+        <div id="news-card" className="card card-with-background">
+          <div className="card-body" style={{
+            backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}>
+            <a
+              style={{ width: "100%" }}
+              href="https://www.amazon.com/Little-Robot-That-Could-Friends-ebook/dp/B07HYCHM37/ref=sr_1_1?crid=3HJDGN0WGNTKY&dib=eyJ2IjoiMSJ9.YMoLvmEkyqvN0xBsWh6TeJN2LyDuAaFPue1as14Lg0R8gsgy2HN4IJ31LgDtdVgJf9NKC6N1hbTZwo2s_tMiDMoI1w1s8vukDiRj8-dpfo_7ooFY0UZIh6i_zPXzBsaAfm12u5hL3gwoeCi2m5M0VR-0OjNSOk7c79oR1osJ203dMormCMCjxRg0LrR0mUCKMI-QQ_MXBGCHZU9TGXZR3BZxl4QRtQSBBp7yfJhv4N4.pg0Egp0KPaL4ymTbcP1u5Z0jXvJbT2a6IOcJ9YXZtLo&dib_tag=se&keywords=The+Little+Robot+That+Could&qid=1716322706&sprefix=the+little+robot+that+could%2Caps%2C182&sr=8-1"
+              target="_blank"
+            >
+              <img
+                id="news-image"
+                className="card-img-top"
+                src="https://jodeaux.agency/assets/img/portfolio/LRTC_cover_mini.png"
+                alt="The Little Robot That Could by Kam Vivi Verde, Hale Verde"
+              />
+            </a>
+            <div className="card-text">
+              <h2 className="card-title">
+                <span className="glow">The Little Robot That Could</span>
+              </h2>
+              <p className="card-content">
+              Embark on a thrilling journey with Jetz! A seemingly small adventure could lead to a life-changing discovery. 
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );

@@ -377,9 +377,9 @@ span {
 
 .card-content {
   /* Style card content */
-  font-size: 18px;
-  line-height: 1.5;
-  color: white;
+  font-size: 20px;
+  line-height: 2.0;
+  color: #fff;
   text-align: center;
   width: 800px;
 }
@@ -529,11 +529,17 @@ span {
 
   .card-content {
     /* Style card content */
-    font-size: 18px;
-    line-height: 1.5;
-    color: white;
+    font-size: 20px;
+    line-height: 2.0;
+    color: #fff;
     text-align: center;
+    width: 800px;
+  }
+  .image1 {
     width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
   }
 }
 
@@ -547,6 +553,12 @@ span {
 
   .p2 {
     font-size: 15px;
+  }
+  .image1{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
   }
 }
 
@@ -565,6 +577,12 @@ span {
   .archivesTitle {
     font-size: 17px;
   }
+  .image1{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -580,11 +598,16 @@ span {
 
   .card-content {
     /* Style card content */
-    font-size: 18px;
-    line-height: 1.5;
-    color: white;
+    font-size: 20px;
+    line-height: 2.0;
+    color: #fff;
     text-align: center;
-    width: 350px;
-    margin: auto;
+    width: 800px;
+  }
+  .image1{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
   }
 }
