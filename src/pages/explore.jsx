@@ -130,7 +130,7 @@ would-be vampires, werewolves, immortals and yes, "The Weirdness" begins to have
 <img
 className="portfolioImg5"
 src={
-"https://cdn.discordapp.com/attachments/1070928212042977373/1171167602932977774/rgreen__n_the_heart_of_a_bustling_middle_school_a_mascot_stands_f7058f7a-d0cc-424f-af69-4b832077e264.png?ex=659c4b53&is=6589d653&hm=f7ea120c50cd408318b2e8a6efd72385e303a97c26f35a09fca307f9915a399e&"
+"https://jodeaux.agency/assets/img/portfolio/sb_weirdness_mini.png"
 }
 alt="newsImage"
 />

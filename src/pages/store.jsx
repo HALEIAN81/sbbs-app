@@ -16,10 +16,9 @@ const Store = () => {
         href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1"
         target="_blank"
       >
-        <img 
-      style={{width:"100%"}}
-        
-        src="https://jodeaux.agency/assets/img/portfolio/portfolio-26.png"></img>
+      <div class="text-center">
+  <img style={{width:"50%"}} src="https://jodeaux.agency/assets/img/portfolio/portfolio-26.png"></img>
+</div>
       </a>
       <p className="store-text heading2">
         Introducing Scotland Backyard - The Knights Array - Volume I of a new
