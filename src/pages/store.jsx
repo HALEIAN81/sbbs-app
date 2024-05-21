@@ -34,6 +34,34 @@ const Store = () => {
             </div>
           </div>
         </div>
+        <div id="news-card" className="card card-with-background">
+          <div className="card-body" style={{
+            backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+          }}>
+            <a
+              style={{ width: "100%" }}
+              href="https://www.amazon.com/gp/product/B0D32DP5CF?ref_=dbs_p_pwh_rwt_cpsb_cl_1&storeType=ebooks"
+              target="_blank"
+            >
+              <img
+                id="news-image"
+                className="card-img-top"
+                src="https://jodeaux.agency/assets/img/portfolio/sb_coverII_mini.png"
+                alt="Scotland Backyard - Volume I: The Knights' Array"
+              />
+            </a>
+            <div className="card-text">
+              <h2 className="card-title">
+                <span className="glow">Scotland Backyard - Volume II: The Warlock's Cabal</span>
+              </h2>
+              <p className="card-content">
+              The winds of change howl across Scotland, Washington. In the thrilling sequel, Detective Shaw finds himself at the eye of a storm. A coveted amulet, whispered to hold the key to the town's – and perhaps the world's – future, has ignited a ferocious struggle. From the shadows emerge new and ruthless foes, each with their own designs on the prize. Can Shaw navigate this treacherous web of adversaries, safeguarding the amulet while protecting Jiro, Melissa, and the entire town caught in the crossfire? The fate of their future hangs in the balance.
+              </p>
+            </div>
+          </div>
+        </div>
         <p className="store-text heading3">
           Please celebrate with us as a new tale of adventure, mystery and action unfolds.
         </p>
