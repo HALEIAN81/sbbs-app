@@ -506,6 +506,111 @@ A tremor of unease ran through the halls of Scotland Middle School.  Malcolm Sor
 </div>
 </div>
 
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/castor_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Castor Drakensberg</span>
+</h2>
+<p className="card-content">
+He materialized from the unknown, a phantom child whose existence defied explanation.  No records, no past, just a chilling ability – he's never slept.  Whispers began, rumors of a "special group" to which he belonged.  Was he a victim, a pawn in a larger game?  Or was he the most dangerous player of all, a ticking time bomb with an unknown capacity for destruction?  They called him "The Kid Who Never Sleeps."  Would BlueHand, the ever-watchful corporation, be his savior or his captor?  And perhaps the most unsettling question – could he even be contained?
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/troy_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Troy Drakensberg</span>
+</h2>
+<p className="card-content">
+They called him "The Kid Who Can See The Future." Rumors swirled around him like smoke, fueled by his uncanny knack for picking lottery numbers. But beneath the surface lurked a darkness – his uncontrollable brother, a volatile wildcard in their already unstable existence.  How much of the future could he truly see? Had he glimpsed the apocalyptic downfall of Scotland Township, or were his visions fragmented glimpses holding the key to salvation?  Could they trust him as an ally, or was he a ticking time bomb, his visions a double-edged sword in the fight against BlueHand?
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/roco_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Roco Costa</span>
+</h2>
+<p className="card-content">
+He has stood at the precipice of power, a young man capable of manipulating his very physical state and hinting at even more extraordinary abilities.  As a critical member of a nascent group of gifted individuals the weight of responsibility pressed heavily – protecting his fledgling team, recovering what was stolen, and preparing for the inevitable war on the horizon.  But the question remained – would his power and their combined strength be enough to secure victory?  Doubt gnaws at the edges of his resolve, but the fight for survival burns bright in his eyes.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/nadia_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Nadia Singh</span>
+</h2>
+<p className="card-content">
+She was a bridge between two worlds – the hidden society she once belonged to and the world Detective Shaw so fiercely protected.  Torn between her loyalty to her enigmatic friend Mason and the burgeoning feelings for her teammate Troy, she grappled with an impossible choice.  Could she reconcile her past with her present, becoming a vital asset to Shaw and Roco?  She possessed the potential to unite them all – a reluctant hero with the power to forge a formidable force against the ever-encroaching threat of BlueHand and other shadowy elements.  But the path forward wouldn't be easy.  Could she bridge the gap and overcome her divided loyalties, or would she remain forever caught in the crosshairs?
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/bexley_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Bexley Ghosh</span>
+</h2>
+<p className="card-content">
+He possessed the impossible – the ability to manipulate the very building blocks of reality, atoms themselves dancing to his will. Whispers named him part of a clandestine group, but his allegiance remained as shrouded as the full extent of his powers.  Was he a potential savior, capable of reshaping the world for the better?  Or a harbinger of chaos, his abilities a ticking time bomb waiting to detonate?  The weight of choice pressed heavily upon his young shoulders.  Could he master his burgeoning power and choose the right side of history?  Only time would tell what the future held for this extraordinary young man and the impact his choices would have on the world.
+</p>
+</div>
+</div>
+</div>
+
 </section>
 </div>
 </section>
