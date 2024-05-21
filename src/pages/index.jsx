@@ -467,7 +467,7 @@ backgroundSize: "cover",
 backgroundPosition: "center",
 }}>
 <img id="news-image" className="card-img-top"
-src="https://jodeaux.agency/assets/img/portfolio/mason_img_mini.png"
+src="https://jodeaux.agency/assets/img/portfolio/cad_img_mini.png"
 alt="newsImage"
 />
 <div className="card-text">
@@ -480,6 +480,27 @@ They operate in the shadows, a self-proclaimed trio determined to safeguard the 
 Albert, the mastermind behind Scotagram, a social media platform with a hidden agenda, possesses a genius for strategy. Can he navigate the murky waters of this alliance and lead his team towards a greater good, or will his ambition lead them astray?
 Vincent, the pragmatist, serves as Albert's right hand, his unwavering loyalty a constant. But beneath his stoic exterior lies a darkness, a hint of the sacrifices he's made in the name of their cause.
 Edward, the heart of the group, strives for unity and effectiveness. However, his unwavering faith in Albert and their mission may blind him to the potential consequences of their unorthodox methods.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/sorcha_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Special Agent Malcolm Sorcha</span>
+</h2>
+<p className="card-content">
+A tremor of unease ran through the halls of Scotland Middle School.  Malcolm Sorcha, a man cloaked in an aura of mystery and an obsessive passion for medieval knights, had descended upon the school.  Citing an unspecified "hidden event" requiring heightened security, he implemented a series of measures that left both Detective Jackson Shaw and the school staff bristling.  Was Sorcha a guardian angel, protecting the school from an unknown threat?  Or was his arrival a veiled attempt at control, a power play with hidden motives?  Shaw, ever the skeptic, couldn't shake the feeling that Sorcha's presence was more hindrance than help.  As tensions mounted, Shaw vowed to unravel the truth behind Sorcha's arrival, all while keeping the school and its students safe from whatever lurked in the shadows.
 </p>
 </div>
 </div>
