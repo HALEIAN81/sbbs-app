@@ -19,7 +19,7 @@ const Author = () => {
       </p>
       <p className="p-author glow heading2">- Hale Verde</p>
       <p className="story-summary p1">
-        Hale Verde is a physician, software engineer spending his time in Charleston, South Carolina and Hilo, Hawaii. He enjoys aquascaping, playing and making video games, 3D art and design, writing children's novels and trying to make the world a better place one project at a time. In other words, he has serious ADHD :). He has three wonderful children who he hopes will find their own creative outlet and to also help to mold and shape the world in their own way. He has other works featured on Amazon including <span className="glow">The Little Robot That Could"</span> and now the Scotland Backyard Series with many more to come.
+      Hale Verde wears many hats – a physician by day, a software engineer by night, and a creative mind at all hours. When he's not tending to patients or crafting code, you can find him engrossed in aquascaping, crafting video games, or sculpting worlds in 3D art. He's also a published author, weaving enchanting tales for children (check out "The Little Robot That Could" on Amazon!).  Hale's passion extends beyond his hobbies – he's dedicated to making a positive impact on the world, one project at a time.  And with his three amazing children by his side, he's fostering a new generation of creative minds ready to shape their own destinies.  The Scotland Backyard Series is just the beginning of many adventures to come!
       </p>
       <p className="story-summary p1">
         The story of Jackson, Jira and Melissa is a budding story of individual heroism, unwavering dedication and the 
@@ -30,7 +30,7 @@ const Author = () => {
         I hope that our readers will discover a love for that 'unwinding' of their mystery and learn more about Scotland, Washington and as such - Scotland Backyard.
       </p>
       <p className="next-book  ">
-        Please look out for <span>Scotland Backyard - Volume II - The Warlock's Cabal</span> coming out Q1 2024 on Amazon and other sellers.
+        Please look out for <span>Scotland Backyard - Volume III - TBD </span> coming out Q3 2024 on Amazon and other sellers.
       </p>
       <p className="thanks">
         Thank you all for supporting this journey.
