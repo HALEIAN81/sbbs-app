@@ -397,7 +397,7 @@ The aroma of Mrs. Peabody's Salisbury steak with creamed peas is enough to lure 
 </div>
 </div>
 
-<h2 className="portfolioHeading heading3">
+<h2 className="portfolioHeading heading3" style={{ marginTop: '30px' }}>
 Meet the Characters of Scotland Backyard Volume II: The Warlock's Cabal
 </h2>
 <div className="newsContainer">
@@ -411,10 +411,77 @@ Scotland United Middle School wasn't always a place of textbooks and teenage ang
 <img
 className="portfolioImg1"
 src={
-"https://jodeaux.agency/assets/img/portfolio/sb_ms_img_mini.png"
+"https://jodeaux.agency/assets/img/portfolio/sbms_lake_img_mini.png"
 }
 alt="newsImage"
 />
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/knox_img1_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Knox McGregor III</span>
+</h2>
+<p className="card-content">
+He emerged from the mist like a phantom, a kid shrouded in secrets as thick as his rumored rap sheet.  Hailing from the real Scotland, he represents a tangible threat to everything Detective Jackson Shaw holds dear.  His motives remain shrouded, his loyalties a puzzle.  Is he a cunning adversary, or a potential ally driven by hidden agendas?  One thing's for sure – the arrival of this enigmatic outsider throws the town of Scotland, Washington into a tailspin, and Jackson Shaw finds himself face-to-face with a mystery as complex as the boy himself.
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/mason_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Mason Rossi</span>
+</h2>
+<p className="card-content">
+The world just tilted on its axis. Vampires – those creatures of legend – walk among them, and garlic isn't just for keeping the kitchen smelling fresh.  Mason Rossi, a charismatic enigma shrouded in secrecy, leads a shadowy existence.  Is he the mastermind behind a daring heist, or the charismatic leader of a clandestine vampire cult with a hunger for more than just power?  One thing's for sure – his presence casts a long shadow over Scotland, Washington, and our young heroes find themselves precariously perched on his radar.  Will they become his pawns, or can they unravel his true motives before becoming a late-night snack?
+</p>
+</div>
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/mason_img_mini.png"
+alt="newsImage"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Albert, Vincent and Edward A.K.A. CTRL-ALT-DELETE</span>
+</h2>
+<p className="card-content">
+They operate in the shadows, a self-proclaimed trio determined to safeguard the world at any cost.  Opposing the omnipresent BlueHand Corporation, their motives are as shrouded as their pasts.  Will they stand alongside Detective Jackson Shaw in the fight against a common enemy, or will their own agendas take precedence?  These college-infused "gifts" grant them extraordinary abilities, but can their loyalty and trustworthiness be assured?
+
+Albert, the mastermind behind Scotagram, a social media platform with a hidden agenda, possesses a genius for strategy. Can he navigate the murky waters of this alliance and lead his team towards a greater good, or will his ambition lead them astray?
+Vincent, the pragmatist, serves as Albert's right hand, his unwavering loyalty a constant. But beneath his stoic exterior lies a darkness, a hint of the sacrifices he's made in the name of their cause.
+Edward, the heart of the group, strives for unity and effectiveness. However, his unwavering faith in Albert and their mission may blind him to the potential consequences of their unorthodox methods.
+</p>
+</div>
 </div>
 </div>
 
