@@ -34,6 +34,10 @@ const Store = () => {
             </div>
           </div>
         </div>
+
+        <p className="store-text heading3">
+        The wait is over! Hale's newest adventure explodes onto the scene! Prepare for a thrilling tale of mystery and action.
+        </p>
         <div id="news-card" className="card card-with-background">
           <div className="card-body" style={{
             backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sbII_mini.png')",
@@ -62,9 +66,7 @@ const Store = () => {
             </div>
           </div>
         </div>
-        <p className="store-text heading3">
-          Please celebrate with us as a new tale of adventure, mystery and action unfolds.
-        </p>
+        
         <p className="store-text heading3">
           Other published works by Hale Verde:
         </p>
