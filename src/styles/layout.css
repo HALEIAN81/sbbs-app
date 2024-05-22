@@ -1,23 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow+Condensed&family=Exo+2&family=Henny+Penny&family=Rye&family=Sacramento&family=Tinos&display=swap");
 
-
 .custom-cursor {
-    cursor: url('https://jodeaux.agency/assets/img/portfolio/bluehand_img_mini-tp.png'), auto;
+  cursor: url("https://jodeaux.agency/assets/img/portfolio/bluehand_img_mini-tp.png"),
+    auto;
 }
 
 .header {
-  background-color: #121e34;
   width: 100%;
   height: 80px;
+  background-color: #121e34;
 }
 
 .nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   width: 90%;
   height: 100%;
   margin: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .logo {
@@ -27,30 +27,30 @@
 }
 
 .logoLink {
+  color: #ccc;
   font-size: 26px;
   text-transform: uppercase;
   text-decoration: none;
-  color: #ccc;
 }
 .logoLink:hover {
   color: darksalmon;
 }
 
 .navbar {
-  flex: 1;
   display: flex;
-  justify-content: right;
+  flex: 1;
   align-items: center;
+  justify-content: right;
   height: 100%;
 }
 
 .navbarLink {
-  text-decoration: none;
-  color: #ccc;
   margin: 0 10px;
   padding: 5px 20px;
+  color: #ccc;
   font-size: 24px;
   text-transform: uppercase;
+  text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
 .navbarLink:hover {
@@ -58,19 +58,19 @@
 }
 /*main section*/
 .hero {
-  background-color: #121e34;
   width: 100%;
   height: auto;
   margin: auto;
+  background-color: #121e34;
 }
 .heading {
+  margin: 0 0 20px 0;
+  padding: 10px 0;
   color: #aaa;
-  font-size: 4rem;
   font-weight: 400;
+  font-size: 4rem;
   letter-spacing: 1px;
   text-align: center;
-  padding: 10px 0;
-  margin: 0 0 20px 0;
 }
 .glow {
   color: white;
@@ -92,72 +92,78 @@ span {
 }
 .headerImg {
   width: 90%;
+  height: 1040px;
   margin: auto;
+  padding-top: 50px;
+  overflow: hidden;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("https://jodeaux.agency/assets/img/portfolio/portfolio-20.png");
-  height: 1040px;
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center center;
-  overflow: hidden;
+  background-size: cover;
   border-radius: 20px;
-  padding-top: 50px;
 }
-.image1{
+.image1 {
   width: 800px;
   height: 1000px;
-  border-radius: 14px;
   margin: 0px 5px;
+  border-radius: 14px;
 }
-.image1{
+.image2 {
   width: 400px;
   height: 600px;
-  border-radius: 14px;
   margin: 0px 5px;
+  border-radius: 14px;
+}
+.image-about {
+  width: 400px;
+  height: 600px;
+  margin: 0px 5px;
+  border-radius: 14px;
 }
 .news {
-  background: #121e34;
-  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   width: 100%;
   height: auto;
   padding: 40px 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  color: white;
+  background: #121e34;
 }
 .newsHeading {
-  font-size: 54px;
   margin: 20px 0;
 
   padding: 0px 9px;
+  font-size: 54px;
 }
 .sb-title {
   font-family: "Henny Penny";
 }
 .newsContainer {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  width: 100%;
   padding: 20px 0;
 }
 .newsTitle {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-weight: 460;
   width: 50%;
   padding: 0 60px;
+  font-weight: 460;
 }
 .newsTitleHeading {
-  font-size: 36px;
   margin: 0 0 20px 0;
+  font-size: 36px;
 }
 .newsTitleContent {
-  font-size: 28px;
   margin: 0 0 10px 0;
+  font-size: 28px;
 }
 
 .newsRight {
@@ -170,10 +176,10 @@ span {
 .newsRightImg {
   width: 100%;
   height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
   overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   border-radius: 20px;
 }
 .portfolioImg1,
@@ -183,24 +189,24 @@ span {
 .portfolioImg5 {
   width: 1000px;
   height: 320px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  overflow: hidden;
-  margin-left: 75px;
-  margin-right: 50px;
   margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 75px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 .explore-img1 {
   width: 100%;
+  height: 1040px;
   margin-top: 50px;
+  overflow: hidden;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("https://jodeaux.agency/assets/img/portfolio/portfolio-23.png");
-  height: 1040px;
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center center;
-  overflow: hidden;
+  background-size: cover;
 
   border-radius: 20px;
 }
@@ -209,14 +215,14 @@ span {
 }
 .about-img1 {
   width: 100%;
+  height: 1040px;
   margin-top: 50px;
+  overflow: hidden;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("https://jodeaux.agency/assets/img/portfolio/portfolio-22.png");
-  height: 1040px;
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center center;
-  overflow: hidden;
+  background-size: cover;
   /* padding: 500px; */
   /* border: 1px solid red; */
   border-radius: 20px;
@@ -229,103 +235,103 @@ span {
 }
 .store-img1 {
   width: 90%;
+  height: 1040px;
   margin-top: 50px;
+  padding: 500px;
+  overflow: hidden;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("https://jodeaux.agency/assets/img/portfolio/portfolio-26.png");
-  height: 1040px;
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center center;
-  overflow: hidden;
-  padding: 500px;
+  background-size: cover;
   border-radius: 20px;
 }
 /*archives section*/
 .archives {
-  background-color: #121e34;
-  height: 40vh;
-  color: white;
-  padding: 40px 0;
   display: flex;
   justify-content: center;
   width: 100%;
+  height: 40vh;
+  padding: 40px 0;
+  color: white;
+  background-color: #121e34;
 }
 .archivesDiv {
-  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 .archivesTitle {
-  font-size: 28px;
   margin: 20px 0 0;
+  font-size: 28px;
 }
 .archivesText {
-  font-size: 20px;
   margin: 10px 0;
+  font-size: 20px;
 }
 /*archives section*/
 
 /*author page*/
 .authorImg {
   width: 100%;
+  height: 1040px;
   margin-top: 50px;
+  overflow: hidden;
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("https://jodeaux.agency/assets/img/portfolio/portfolio-18.png");
-  height: 1040px;
   background-repeat: no-repeat;
-  background-size: cover;
   background-position: center center;
-  overflow: hidden;
+  background-size: cover;
   /* padding: 500px; */
   border-radius: 50px;
 }
 .p-quote {
-  font-size: 48px;
   padding-top: 30px;
   padding-bottom: 30px;
+  font-size: 48px;
 }
 .story-summary {
-  font-size: 24px;
   padding-top: 15px;
   padding-bottom: 15px;
+  font-size: 24px;
 }
 .next-book {
-  font-size: 36px;
   padding-top: 50px;
   padding-bottom: 50px;
+  font-size: 36px;
 }
 .thanks {
-  font-size: 36px;
   padding-top: 50px;
   padding-bottom: 50px;
+  font-size: 36px;
 }
 /*footer section*/
 .footer {
-  width: 100%;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  width: 100%;
   height: 120px;
   color: white;
   background-color: black;
 }
 .footerLink {
-  text-decoration: none;
-  color: #ccc;
   padding: 5px 10px;
+  color: #ccc;
   font-size: 16px;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .footerLink:hover {
   color: darksalmon;
 }
 
 .footerText {
+  margin: 0 0 0 10px;
   color: #999;
   font-size: 16px;
-  margin: 0 0 0 10px;
 }
 .center-text {
   text-align: center;
@@ -335,30 +341,30 @@ span {
 }
 .hemburgurIconBox a {
   display: block;
-  text-align: center;
   margin-bottom: 15px;
+  text-align: center;
 }
 .hemburgurIconBox {
-  background-color: black;
-  width: 100%;
-  padding: 10px 0px 20px 0px;
   position: absolute;
   top: 90px;
   left: 0px;
   display: none;
+  width: 100%;
+  padding: 10px 0px 20px 0px;
+  background-color: black;
 }
-.hemburguricon{
+.hemburguricon {
   display: none;
 }
 
 /* character card styling */
 .card {
-  /* Basic card styling */
-  background-color: black; 
-  border-radius: 5px;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px;
   padding: 20px;
+  /* Basic card styling */
+  background-color: black;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .card-img-top {
@@ -369,26 +375,26 @@ span {
 }
 
 .card-title {
+  margin-bottom: 10px;
   /* Style card title */
   font-size: 1.5rem;
-  margin-bottom: 10px;
   text-align: center;
 }
 
 .card-content {
+  width: 800px;
+  margin: auto;
+  color: #fff;
   /* Style card content */
   font-size: 20px;
-  line-height: 2.0;
-  color: #fff;
+  line-height: 2;
   text-align: center;
-  width: 800px;
-  margin:auto;
 }
 
 .card-with-background {
   background-image: url("/assets/bg_gradient_sb.png"); /* Replace with your image URL */
-  background-size: cover; /* Fills the entire card area */
   background-position: center; /* Centers the image within the card */
+  background-size: cover; /* Fills the entire card area */
 }
 
 /*media queries for tablet*/
@@ -399,8 +405,8 @@ span {
   .hemburgurIconBox {
     display: block;
   }
-  .hemburguricon{
-    display:block;
+  .hemburguricon {
+    display: block;
   }
   .heading1 {
     font-size: 2.5rem;
@@ -428,9 +434,9 @@ span {
   .portfolioImg3,
   .portfolioImg4,
   .portfolioImg5 {
-    margin-left: 10px;
-    margin-right: 10px;
     margin-top: 7px;
+    margin-right: 10px;
+    margin-left: 10px;
   }
   .heading1 {
     font-size: 1.5rem;
@@ -460,9 +466,8 @@ span {
   }
   .newsRight {
     width: 100%;
-    height:320px  !important; 
+    height: 320px !important;
     /* border: 1px solid red; */
-
   }
   .newsTitle {
     width: 100%;
@@ -476,32 +481,31 @@ span {
 /*media queries for mobile*/
 
 @media screen and (max-width: 600px) {
-  
-  .hemburguricon{
+  .hemburguricon {
     width: 70px;
   }
-  .logoLink{
+  .logoLink {
     font-size: 18px;
   }
-  .navbarLink{
-    font-size: 17px;
+  .navbarLink {
     margin-bottom: 0px !important;
+    font-size: 17px;
   }
   .header {
+    height: auto;
 
     padding: 0px 0px;
     padding-bottom: 30px;
-    height: auto;
   }
   .next-book {
-    font-size: 23px;
     padding-top: 0px;
     padding-bottom: 0px;
+    font-size: 23px;
   }
   .thanks {
-    font-size: 23px;
     padding-top: 30px;
     padding-bottom: 20px;
+    font-size: 23px;
   }
 
   .logo {
@@ -530,25 +534,25 @@ span {
   }
 
   .card-content {
-    /* Style card content */
-    font-size: 20px;
-    line-height: 2.0;
-    color: #fff;
-    text-align: center;
     width: 363px;
     margin: auto;
+    color: #fff;
+    /* Style card content */
+    font-size: 20px;
+    line-height: 2;
+    text-align: center;
   }
   .image1 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
-  .image2{
+  .image2 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
 }
 
@@ -564,17 +568,17 @@ span {
   .p2 {
     font-size: 15px;
   }
-  .image1{
+  .image1 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
-  .image2{
+  .image2 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
 }
 
@@ -593,17 +597,17 @@ span {
   .archivesTitle {
     font-size: 17px;
   }
-  .image1{
+  .image1 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
-  .image2{
+  .image2 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
 }
 
@@ -613,30 +617,30 @@ span {
   }
 
   .card-img-top {
-      width: 100%;
-      height: 400px;
-      object-fit: cover;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
   }
 
   .card-content {
-    /* Style card content */
-    font-size: 20px;
-    line-height: 2.0;
-    color: #fff;
-    text-align: center;
     width: 363px;
     margin: auto;
+    color: #fff;
+    /* Style card content */
+    font-size: 20px;
+    line-height: 2;
+    text-align: center;
   }
-  .image1{
+  .image1 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
-  .image2{
+  .image2 {
     width: 400px;
     height: 600px;
-    border-radius: 14px;
     margin: 0px 5px;
+    border-radius: 14px;
   }
 }

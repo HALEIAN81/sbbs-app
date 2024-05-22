@@ -6,6 +6,9 @@ const Store = () => {
       {/* Move meta tags to a separate component or the document head */}
       <div className="store glow">
         <h3 className="pageTitle">Store</h3>
+        <h2 className="">Hale Verde's Thrilling Tales</h2>
+
+<p>Welcome to the official store of Hale Verde, a place where you can explore the enchanting worlds created by this imaginative author. Dive into the mysteries of Scotland Backyard and discover the heartwarming story of The Little Robot That Could.</p>
         <div id="news-card" className="card card-with-background">
           <div className="card-body" style={{
             backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
