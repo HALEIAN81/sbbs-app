@@ -118,6 +118,27 @@ Scotland, Washington, is a place where the veil between reality and the strange 
 </div>
 </div>
 
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/project_zia_img_mini.png"
+alt="Image of a glowing white emblow of a large arrow piercing into something unknown, foreign - it is the logo of Project Zia "
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Project Zia</span>
+</h2>
+<p className="card-content">
+From the shrouded deserts of New Mexico emerges a clandestine unit – a shadow organization tasked with a singular purpose: the capture and containment of the extraordinary. Their origins are as shrouded as the technology they wield. Colonel Stone, an enigma himself, leads this ruthless band with an iron fist.  But what truly fuels their relentless pursuit? Are they guardians or hunters?  One thing is certain:  when they set their sights on something, blood may well be spilled.
+</p>
+</div>
+</div>
+</div>
+
 </section>
 </>
 );

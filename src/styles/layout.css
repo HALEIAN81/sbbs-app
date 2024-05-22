@@ -382,6 +382,7 @@ span {
   color: #fff;
   text-align: center;
   width: 800px;
+  margin:auto;
 }
 
 .card-with-background {
@@ -442,6 +443,7 @@ span {
   }
   .heading3 {
     font-size: 20px;
+    text-align: center;
   }
   .newsContainer {
     padding: 10px 0px;
@@ -534,6 +536,7 @@ span {
     color: #fff;
     text-align: center;
     width: 363px;
+    margin: auto;
   }
   .image1 {
     width: 400px;
@@ -554,7 +557,8 @@ span {
     font-size: 1rem;
   }
   .heading3 {
-    font-size: 16px;
+    font-size: 20px;
+    text-align: center;
   }
 
   .p2 {
@@ -621,6 +625,7 @@ span {
     color: #fff;
     text-align: center;
     width: 363px;
+    margin: auto;
   }
   .image1{
     width: 400px;

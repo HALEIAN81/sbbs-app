@@ -15,7 +15,7 @@ const About = () => {
       
       
       {/* <div className="about-img1"></div> */}
-      <img src="https://jodeaux.agency/assets/img/portfolio/portfolio-22.png" className="image2" alt="" />
+      <img src="https://jodeaux.agency/assets/img/portfolio/one_road_image_mini.png" className="image2" alt="Image of The One Road Headed into The Weirdness of Scotland, Washington" />
 
       
       </a>

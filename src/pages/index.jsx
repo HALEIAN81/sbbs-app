@@ -621,7 +621,7 @@ He possessed the impossible – the ability to manipulate the very building bloc
 <div className="archivesDiv">
 <h3 className="archivesTitle ">More to Come</h3>
 <span className="archivesText heading3">
-3rd Volume in the Works - Q3 2024
+3rd Volume in the Works - Q4 2024
 </span>
 </div>
 <div className="archivesDiv">
