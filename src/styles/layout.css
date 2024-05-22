@@ -109,9 +109,9 @@ span {
   border-radius: 14px;
   margin: 0px 5px;
 }
-.image2{
-  width: 96%;
-  height: auto;
+.image1{
+  width: 400px;
+  height: 600px;
   border-radius: 14px;
   margin: 0px 5px;
 }
@@ -533,9 +533,15 @@ span {
     line-height: 2.0;
     color: #fff;
     text-align: center;
-    width: 400px;
+    width: 363px;
   }
   .image1 {
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
+  }
+  .image2{
     width: 400px;
     height: 600px;
     border-radius: 14px;
@@ -555,6 +561,12 @@ span {
     font-size: 15px;
   }
   .image1{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
+  }
+  .image2{
     width: 400px;
     height: 600px;
     border-radius: 14px;
@@ -583,6 +595,12 @@ span {
     border-radius: 14px;
     margin: 0px 5px;
   }
+  .image2{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -602,9 +620,15 @@ span {
     line-height: 2.0;
     color: #fff;
     text-align: center;
-    width: 400px;
+    width: 363px;
   }
   .image1{
+    width: 400px;
+    height: 600px;
+    border-radius: 14px;
+    margin: 0px 5px;
+  }
+  .image2{
     width: 400px;
     height: 600px;
     border-radius: 14px;
