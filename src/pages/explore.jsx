@@ -27,115 +27,97 @@ target="_blank"
 <p className="explore-text p1">
 Scotland Backyard is a charming story, made to steep our readers in mystery and heroism. The kind
 that saves the world, falls in love, reaches for personal growth and discovery for our characters.
-This is the first installment, with more on the way - we sincerely hope you will love the world we
+This is the first two installments, with more on the way - we sincerely hope you will love the world we
 have carved out and follow the story through to its end.
 </p>
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading glow">The Plot Thickens</h2>
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle1"><span className="glow">Scotland, Washington</span></h2>
-<p className="newsTitleContent p1">
-Towering mountains frame Scotland, Washington, a town wedged between Bremerton and Poulsbo like an anomaly nestled amidst towering pines. Whispers of classified Navy projects mingle with the scent of saltwater and echoing drills, hinting at secrets buried deep within. A single road pierces the dense forests, winding like a lifeline through ancient mysteries and chilling tales whispered on the wind. This is Scotland, WA, a place where the extraordinary bleeds into the ordinary, and every shadow seems to hold a story waiting to be unearthed.
-</p>
-</div>
-<div className="newsRight">
-<img
-className="portfolioImg1"
-src={
-"https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
-}
-alt="newsImage"
-/>
-</div>
-</div>
 
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg2"
-src={
-"https://jodeaux.agency/assets/img/portfolio/sb_ms_img_mini.png"
-}
-alt="newsImage"
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
+alt="Image of downtown Scotland, Washington - a mid-sized town nestled in the forests and mountains of the Pacific Northwest"
 />
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle2"><span className="glow">Scotland United Middle School</span></h2>
-<p className="newsTitleContent p1">
-Founded alongside the town itself, SUMS rises from the very stones of a castle built by its elder Scotsman and founder, Knox McGregor Sr. His fervent belief in his knightly lineage imbues the classrooms with an air of chivalric adventure, evident in the towering suit of gleaming plate guarding the entrance and the weathered tapestries depicting forgotten battles.
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">Scotland, Washington</span>
+</h2>
+<p className="card-content">
+Towering evergreens claw at the sky, framing the anomaly nestled in their midst – Scotland, Washington. Wedged between Bremerton and Poulsbo, the town breathes in the scent of saltwater and the rhythmic pounding of distant drills. Whispers of classified Navy projects hang heavy in the air, mingling with the tang of sea salt, hinting at secrets buried beneath the surface. A single road cuts through the dense forest, a lifeline snaking through whispers of ancient mysteries and chilling tales carried on the wind. In Scotland, WA, the extraordinary bleeds seamlessly into the ordinary. Every shadow seems to hold a story, waiting for a curious soul to unearth it.
 </p>
 </div>
 </div>
-
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle3"><span className="glow">BlueHand Corporation</span></h2>
-<p className="newsTitleContent p1">
-BlueHand Corporation has a solid foothold over the town, founded in the 1920s - it has its hands
-into everything from supplying the military, to research and development in the tech and medical industry,
-advanced physics, quantum mechanics and artificial intelligence. What is its real mission? No one knows, but Jackson and Jiro
-have dedicated there young lives to uncovering its atrocities and wrong-doings.
-</p>
 </div>
-<div className="newsRight">
-<img
-className="portfolioImg3"
-src={
-"https://jodeaux.agency/assets/img/portfolio/bluehand2_img-mini.png"
-}
-alt="newsImage"
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/bluehand2_img-mini.png"
+alt="BlueHand Corporation is having a meeting, featuring all the evil employees and a globe of the world at the center"
 />
-</div>
-</div>
-
-
-<div className="newsContainer column-reverse">
-<div className="newsRight">
-<img
-className="portfolioImg4"
-src={
-"https://jodeaux.agency/assets/img/portfolio/portfolio-46.png"
-}
-alt="newsImage"
-/>
-</div>
-<div className="newsTitle">
-<h2 className="portfolioTitle4"><span className="glow">The Shaw Legacy</span></h2>
-<p className="newsTitleContent p1">
-Jackson Shaw and his mother Clara Shaw live in the town of Scotland, Washington making a life,
-day by day. Jackson, ever the sleuth and obsessed hockey player is fascinated with uncovering
-all the mysteries of Scotland, Washington.
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">BlueHand Corporation</span>
+</h2>
+<p className="card-content">
+Since the 1920s, BlueHand Corporation has quietly established itself as a dominant force in the town. Its reach extends far beyond what's visible, supplying the military, funding research in tech, medicine, and even esoteric fields like advanced physics, quantum mechanics, and artificial intelligence. But beneath this veneer of progress lies a shrouded purpose. No one knows BlueHand's true mission, but suspicion has driven Jackson and Jiro to dedicate their youth to uncovering the corporation's dark secrets.
 </p>
 </div>
 </div>
+</div>
 
-
-<div className="newsContainer">
-<div className="newsTitle">
-<h2 className="portfolioTitle5"><span className="glow">The Weirdness of Scotland</span></h2>
-<p className="newsTitleContent p1">
-Between the Navy's experiments and 'accidental mishaps' of BlueHand's secret labs,
-the Scotland University's bolstering hyper-smart young college students and that the area
-seems to attract the greatest minds from all over the world and you have yourself a formula
-for what has been affectionately called "The Weirdness". Put that together with ancient groups
-laying claim to the Native American ruins strown about the town, the secret societies of
-would-be vampires, werewolves, immortals and yes, "The Weirdness" begins to have meaning.
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/portfolio-46.png"
+alt="The Shaw Legacy, Jackson sits at his mega console within his detective garage, neon lights surround him"
+/>
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Shaw Legacy</span>
+</h2>
+<p className="card-content">
+In the quiet town of Scotland, Washington, Jackson Shaw and his mother, Clara, navigate life together. A tenacious sleuth and hockey fanatic, Jackson finds himself consumed by the town's hidden secrets. Haunted by his missing father, he embarks on a relentless quest, determined to unearth the truth, no matter how painful it might be. Will Jackson solve the biggest mystery of his life?
 </p>
 </div>
-<div className="newsRight">
-<img
-className="portfolioImg5"
-src={
-"https://jodeaux.agency/assets/img/portfolio/sb_weirdness_mini.png"
-}
-alt="newsImage"
+</div>
+</div>
+
+<div id="news-card" className="card card-with-background">
+<div className="card-body" style={{
+backgroundImage: "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+backgroundSize: "cover",
+backgroundPosition: "center",
+}}>
+<img id="news-image" className="card-img-top"
+src="https://jodeaux.agency/assets/img/portfolio/sb_weirdness_mini.png"
+alt="Image of a grand castle in Scotland, Washington - nestled beneath a storming tempest hovering above. "
 />
+<div className="card-text">
+<h2 className="card-title">
+<span className="glow">The Weirdness of Scotland</span>
+</h2>
+<p className="card-content">
+Scotland, Washington, is a place where the veil between reality and the strange seems to be perpetually thin. The town simmers with a unique energy fueled by a confluence of factors. The Navy conducts shadowy experiments, whispers surround "accidental mishaps" at BlueHand's clandestine labs, and Scotland University nurtures a population of hyper-intelligent students. The town acts as a magnet, drawing the greatest minds from across the globe – a perfect recipe for what locals have affectionately dubbed "The Weirdness."  But the strangeness goes deeper. Ancient groups stake their claim on the town's scattered Native American ruins, while whispers of secret societies – vampires, werewolves, and even immortals – add another layer to the town's mystique. In Scotland, Washington, "The Weirdness" isn't just a quirk; it's the very essence of the place.
+</p>
 </div>
 </div>
+</div>
+
 </section>
 </>
 );

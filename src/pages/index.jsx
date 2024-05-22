@@ -32,8 +32,9 @@ The Story of The Best Young Sleuth in the World
 <p className="newsTitleContent p1">This is where the mysteries of Scotland, Washington
 will be revealed by our young heroes and the battle against the
 dark and shadowy organization of BlueHand shall be fought and
-won in their own backyard. Welcome.
+won in their own backyard. 
 </p>
+<p>Welcome.</p>
 </div>
 <section className="news portfolio">
 <h2 className="portfolioHeading heading3">
@@ -397,7 +398,7 @@ The aroma of Mrs. Peabody's Salisbury steak with creamed peas is enough to lure 
 </div>
 </div>
 
-<h2 className="portfolioHeading heading3" style={{ marginTop: '30px' }}>
+<h2 className="portfolioHeading heading3" style={{ marginTop: '30px', marginBottom: '30px' }}> 
 Meet the Characters of Scotland Backyard Volume II: The Warlock's Cabal
 </h2>
 <div className="newsContainer">
