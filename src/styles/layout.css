@@ -119,8 +119,8 @@ span {
 }
 .image-about {
   display: flex;
-  width: 400px;
-  height: 600px;
+  width: 800px;
+  height: 800px;
   margin: 0px 5px;
   border-radius: 14px;
 }

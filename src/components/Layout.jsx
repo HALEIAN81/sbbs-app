@@ -11,14 +11,14 @@ const Header = () => {
     <header className="header">
       <div className="nav">
         <div className="logo">
-          <Link onClick={()=>(setfirst("none"))} className="logoLink" href="/">
+          <Link onClick={() => setfirst("none")} className="logoLink" href="/">
             sbbs.online
           </Link>
         </div>
         <div className="navbar">
-          <Link className="navbarLink" href="/about">
+          {/* <Link className="navbarLink" href="/about">
             About
-          </Link>
+          </Link> */}
           <Link className="navbarLink" href="/author">
             Author
           </Link>
@@ -30,19 +30,35 @@ const Header = () => {
           </Link>
         </div>
         <div className="mobilemenu">
-          <img onClick={handleMunuIcon} className="hemburguricon" src={hamburgerIcon.src} />
+          <img
+            onClick={handleMunuIcon}
+            className="hemburguricon"
+            src={hamburgerIcon.src}
+          />
 
           <div style={{ display: first }} className="hemburgurIconBox">
             {/* <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/about">
               About
             </Link> */}
-            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/author">
+            <Link
+              onClick={() => setfirst("none")}
+              className="navbarLink"
+              href="/author"
+            >
               Author
             </Link>
-            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/explore">
+            <Link
+              onClick={() => setfirst("none")}
+              className="navbarLink"
+              href="/explore"
+            >
               Explore
             </Link>
-            <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/store">
+            <Link
+              onClick={() => setfirst("none")}
+              className="navbarLink"
+              href="/store"
+            >
               Store
             </Link>
           </div>
