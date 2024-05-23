@@ -104,18 +104,21 @@ span {
   border-radius: 20px;
 }
 .image1 {
+  display: flex;
   width: 800px;
   height: 1000px;
   margin: 0px 5px;
   border-radius: 14px;
 }
 .image2 {
-  width: 400px;
+  display: flex;
+  width: 600px;
   height: 600px;
-  margin: 0px 5px;
+  margin: auto;
   border-radius: 14px;
 }
 .image-about {
+  display: flex;
   width: 400px;
   height: 600px;
   margin: 0px 5px;

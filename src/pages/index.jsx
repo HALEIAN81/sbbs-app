@@ -19,17 +19,19 @@ const index = () => {
           <h1 className="heading heading1 glow sb-title">
             SCOTLAND BACKYARD BOOK SERIES
           </h1>
-          <a
-            href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1"
-            target="_blank"
-          >
-            {/* <div className="headerImg"></div> */}
-            <img
-              src="https://jodeaux.agency/assets/img/portfolio/portfolio-20.png"
-              className="image2"
-              alt=""
-            />
-          </a>
+          <div className="hero">
+            <a
+              href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1"
+              target="_blank"
+            >
+              {/* <div className="headerImg"></div> */}
+              <img
+                src="https://jodeaux.agency/assets/img/portfolio/portfolio-20.png"
+                className="image2"
+                alt=""
+              />
+            </a>
+          </div>
         </section>
         <section className="news">
           <h2 className="newsHeading heading2 glow sb-title center-text">
