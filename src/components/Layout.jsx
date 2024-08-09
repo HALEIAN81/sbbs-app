@@ -16,9 +16,6 @@ const Header = () => {
           </Link>
         </div>
         <div className="navbar">
-          {/* <Link className="navbarLink" href="/about">
-            About
-          </Link> */}
           <Link className="navbarLink" href="/author">
             Author
           </Link>
@@ -28,6 +25,9 @@ const Header = () => {
           <Link className="navbarLink" href="/store">
             Store
           </Link>
+          {/* <Link className="navbarLink" href="/blog">
+            Blog
+          </Link> */}
         </div>
         <div className="mobilemenu">
           <img
@@ -37,9 +37,6 @@ const Header = () => {
           />
 
           <div style={{ display: first }} className="hemburgurIconBox">
-            {/* <Link onClick={()=>(setfirst("none"))} className="navbarLink" href="/about">
-              About
-            </Link> */}
             <Link
               onClick={() => setfirst("none")}
               className="navbarLink"
@@ -61,6 +58,13 @@ const Header = () => {
             >
               Store
             </Link>
+            {/* <Link
+              onClick={() => setfirst("none")}
+              className="navbarLink"
+              href="/blog"
+            >
+              Blog
+            </Link> */}
           </div>
         </div>
       </div>
