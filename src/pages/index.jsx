@@ -59,6 +59,13 @@ const index = () => {
               <p className="newsTitleContent p1">Welcome.</p>
             </div>
 
+            <h2
+                className="portfolioHeading heading3"
+                style={{ marginTop: "30px", marginBottom: "30px" }}
+              >
+                Meet the Characters of Scotland Backyard Volume I: The Knights' Array
+              </h2>
+
               <div id="news-card" className="card card-with-background">
                 <div
                   className="card-body"
