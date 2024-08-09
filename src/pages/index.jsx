@@ -58,40 +58,44 @@ const index = () => {
               </p>
               <p className="newsTitleContent p1">Welcome.</p>
             </div>
-            <section className="news portfolio">
-              <h2 className="portfolioHeading heading3">
-                Meet the Characters of Scotland Backyard Volume I: The Knights'
-                Array
-              </h2>
-              <div className="newsContainer">
-                <div className="newsTitle">
-                  <h2 className="portfolioTitle1">
-                    <span className="glow">Scotland, Washington</span>
-                  </h2>
-                  <div className="newsRight">
-                    <img
-                      className="portfolioImg1"
-                      src={
-                        "https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
-                      }
-                      alt="newsImage"
-                    />
+
+              <div id="news-card" className="card card-with-background">
+                <div
+                  className="card-body"
+                  style={{
+                    backgroundImage:
+                      "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                  }}
+                >
+                  <img
+                    id="news-image"
+                    className="card-img-top"
+                    src="https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
+                    alt="newsImage"
+                  />
+                  <div className="card-text">
+                    <h2 className="card-title">
+                      <span className="glow">Scotland, Washington</span>
+                    </h2>
+                    <p className="card-content">
+                      There exist mysterious towns and cities and then there is
+                      Scotland, Washington. Nestled in the heart of McGregor
+                      County, lies our humble city-town. Founded by the McGregor
+                      family and fashioned with a boost from the gold rush and
+                      the silver rush, little Scotland, WA quickly became big
+                      Scotland, WA helped out even more by the riches and
+                      ambitions of BlueHand Corporation, a corporation dedicated
+                      to the "Benefit of All Mankind". Home to families, the
+                      Navy and Marines, it is both a place of love and
+                      expectation, but also of thrills and adventure. At some
+                      point, even the Vikings may have called it home.
+                      Surrounded by mountains, bounded by the shores of the
+                      Pacific Ocean and nested within the ethos of the Pacific
+                      NorthWest, USA.
+                    </p>
                   </div>
-                  <p className="newsTitleContent p1">
-                    There exist mysterious towns and cities and then there is
-                    Scotland, Washington. Nestled in the heart of McGregor
-                    County, lies our humble city-town. Founded by the McGregor
-                    family and fashioned with a boost from the gold rush and the
-                    silver rush, little Scotland, WA quickly became big
-                    Scotland, WA helped out even more by the riches and
-                    ambitions of BlueHand Corporation, a corporation dedicated
-                    to the "Benefit of All Mankind". Home to families, the Navy
-                    and Marines, it is both a place of love and expectation, but
-                    also of thrills and adventure. At some point, even the
-                    Vikings may have called it home. Surrounded by mountains,
-                    bounded by the shores of the Pacific Ocean and nested within
-                    the ethos of the Pacific NorthWest, USA.
-                  </p>
                 </div>
               </div>
 
@@ -671,24 +675,29 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                 Meet the Characters of Scotland Backyard Volume II: The
                 Warlock's Cabal
               </h2>
-              <div className="newsContainer">
-                <div className="newsTitle">
-                  <h2 className="portfolioTitle1">
-                    <span className="glow">
-                      A Legacy of Knights and Secrets: Scotland United Middle
-                      School
-                    </span>
-                  </h2>
-                  <div className="newsRight">
-                    <img
-                      className="portfolioImg1"
-                      src={
-                        "https://jodeaux.agency/assets/img/portfolio/sbms_lake_img_mini.png"
-                      }
-                      alt="newsImage"
-                    />
-                  </div>
-                  <p className="newsTitleContent p1">
+
+              <div id="news-card" className="card card-with-background">
+                <div
+                  className="card-body"
+                  style={{
+                    backgroundImage:
+                      "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+                    backgroundSize: "cover",
+                    backgroundPosition: "center",
+                  }}
+                >
+                  <img
+                    id="news-image"
+                    className="card-img-top"
+                    src="https://jodeaux.agency/assets/img/portfolio/sbms_lake_img_mini.png"
+                    alt="newsImage"
+                  />
+                  <div className="card-text">
+                    <h2 className="card-title">
+                      <span className="glow">A Legacy of Knights and Secrets: Scotland United Middle
+                      School</span>
+                    </h2>
+                    <p className="card-content">
                     Scotland United Middle School wasn't always a place of
                     textbooks and teenage angst. It began as a grand ambition –
                     a majestic castle, a museum dedicated to the legends of
@@ -704,7 +713,8 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                     darkness below? Scotland United Middle School may be a
                     school, but its legacy is steeped in intrigue, a breeding
                     ground for the extraordinary waiting to be unearthed.
-                  </p>
+                    </p>
+                  </div>
                 </div>
               </div>
 
