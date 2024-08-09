@@ -30,9 +30,6 @@ const index = () => {
       </head>
       <main className="main">
         <section className="hero">
-          <h1 className="heading heading1 glow sb-title">
-            SCOTLAND BACKYARD BOOK SERIES
-          </h1>
           <div className="hero">
             <a
               href="https://www.amazon.com/Scotland-Backyard-Knights-Hale-Verde-ebook/dp/B09NKVJTKK/ref=sr_1_1?crid=DKHA4LZM4WM0&keywords=Scotland+Backyard&qid=1679819319&sprefix=scotland+backyard%2Caps%2C143&sr=8-1"
@@ -59,7 +56,7 @@ const index = () => {
                 shadowy organization of BlueHand shall be fought and won in
                 their own backyard.
               </p>
-              <p>Welcome.</p>
+              <p className="newsTitleContent p1">Welcome.</p>
             </div>
             <section className="news portfolio">
               <h2 className="portfolioHeading heading3">
@@ -91,7 +88,7 @@ const index = () => {
                   <img
                     className="portfolioImg1"
                     src={
-                      "https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
+                      "https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
                     }
                     alt="newsImage"
                   />
