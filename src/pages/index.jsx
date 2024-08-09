@@ -68,6 +68,15 @@ const index = () => {
                   <h2 className="portfolioTitle1">
                     <span className="glow">Scotland, Washington</span>
                   </h2>
+                  <div className="newsRight">
+                    <img
+                      className="portfolioImg1"
+                      src={
+                        "https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
+                      }
+                      alt="newsImage"
+                    />
+                  </div>
                   <p className="newsTitleContent p1">
                     There exist mysterious towns and cities and then there is
                     Scotland, Washington. Nestled in the heart of McGregor
@@ -83,15 +92,6 @@ const index = () => {
                     bounded by the shores of the Pacific Ocean and nested within
                     the ethos of the Pacific NorthWest, USA.
                   </p>
-                </div>
-                <div className="newsRight">
-                  <img
-                    className="portfolioImg1"
-                    src={
-                      "https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
-                    }
-                    alt="newsImage"
-                  />
                 </div>
               </div>
 
@@ -463,7 +463,7 @@ const index = () => {
                   <img
                     id="news-image"
                     className="card-img-top"
-                    src="https://jodeaux.agency/assets/img/portfolio/portfolio-59.png"
+                    src="https://jodeaux.agency/assets/img/portfolio/bluehand_img_tiny.webp"
                     alt="newsImage"
                   />
                   <div className="card-text">
@@ -679,6 +679,15 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                       School
                     </span>
                   </h2>
+                  <div className="newsRight">
+                    <img
+                      className="portfolioImg1"
+                      src={
+                        "https://jodeaux.agency/assets/img/portfolio/sbms_lake_img_mini.png"
+                      }
+                      alt="newsImage"
+                    />
+                  </div>
                   <p className="newsTitleContent p1">
                     Scotland United Middle School wasn't always a place of
                     textbooks and teenage angst. It began as a grand ambition –
@@ -697,15 +706,6 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                     ground for the extraordinary waiting to be unearthed.
                   </p>
                 </div>
-                <div className="newsRight">
-                  <img
-                    className="portfolioImg1"
-                    src={
-                      "https://jodeaux.agency/assets/img/portfolio/sbms_lake_img_mini.png"
-                    }
-                    alt="newsImage"
-                  />
-                </div>
               </div>
 
               <div id="news-card" className="card card-with-background">
@@ -721,7 +721,7 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                   <img
                     id="news-image"
                     className="card-img-top"
-                    src="https://jodeaux.agency/assets/img/portfolio/knox_img1_mini.png"
+                    src="https://jodeaux.agency/assets/img/portfolio/knox2img_tiny.webp"
                     alt="newsImage"
                   />
                   <div className="card-text">
