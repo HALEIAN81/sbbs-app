@@ -254,7 +254,7 @@ const index = () => {
                   <img
                     id="news-image"
                     className="card-img-top"
-                    src="https://jodeaux.agency/assets/img/portfolio/portfolio-48.png"
+                    src="https://jodeaux.agency/assets/img/portfolio/suk_img1_tiny.webp"
                     alt="newsImage"
                   />
                   <div className="card-text">

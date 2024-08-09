@@ -12,7 +12,7 @@ const Header = () => {
       <div className="nav">
         <div className="logo">
           <Link onClick={() => setfirst("none")} className="logoLink" href="/">
-            sbbs.online
+            Scotland Backyard Book Series
           </Link>
         </div>
         <div className="navbar">
