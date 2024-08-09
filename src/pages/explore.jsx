@@ -13,6 +13,20 @@ const Explore = () => {
           name="keywords"
           content="Scotland Backyard Book Series, young detective, mystery, adventure, BlueHand Corporation, Scotland, Washington, Adventure and Mystery Book Series"
         />
+        <meta
+          property="og:title"
+          content="Scotland Backyard Book Series: The Adventures of Young Detective Jackson Shaw"
+        />
+        <meta
+          property="og:description"
+          content="The Scotland Backyard Book Series follows the adventures of Jackson Shaw, a young detective in Scotland, Washington, as he unravels mysteries and battles the shadowy organization BlueHand Corporation."
+        />
+        <meta property="og:url" content="https://sbbs.online/explore" />{" "}
+        <meta property="og:type" content="website" />{" "}
+        <meta
+          property="og:image"
+          content="https://jodeaux.agency/assets/img/portfolio/portfolio-50.png"
+        />
         <title>Explore Scotland Backyard Book Series by Hale Verde</title>
       </head>
       <div className="explore">
