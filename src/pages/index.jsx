@@ -58,6 +58,7 @@ const index = () => {
               </p>
               <p className="newsTitleContent p1">Welcome.</p>
             </div>
+            </div>
 
             <h2
                 className="portfolioHeading heading3"
@@ -227,7 +228,7 @@ const index = () => {
                   <img
                     id="news-image"
                     className="card-img-top"
-                    src="https://jodeaux.agency/assets/img/portfolio/portfolio-55.png"
+                    src="https://jodeaux.agency/assets/img/portfolio/lance_img_tiny.webp"
                     alt="newsImage"
                   />
                   <div className="card-text">
@@ -640,7 +641,7 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
                   className="card-body"
                   style={{
                     backgroundImage:
-                      "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+                      "url('https://jodeaux.agency/assets/img/portfolio/cafeteria_img_tiny.webp')",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                   }}
