@@ -233,6 +233,10 @@ span {
 .about-text {
   margin-top: 50px;
 }
+
+.store {
+  background-color: #131e34;
+}
 .store-text {
   margin-top: 50px;
 }
@@ -395,6 +399,8 @@ span {
 }
 
 .card-with-background {
+  width: 50%;
+  margin: auto;
   background-image: url("/assets/bg_gradient_sb.png"); /* Replace with your image URL */
   background-position: center; /* Centers the image within the card */
   background-size: cover; /* Fills the entire card area */
@@ -553,7 +559,7 @@ span {
   }
   .image2 {
     width: 400px;
-    height: 600px;
+    height: 450px;
     margin: 0px 5px;
     border-radius: 14px;
   }

@@ -61,11 +61,11 @@ const Store = () => {
         </div>
       </div>
 
-      <p className="store-text heading3">
-        The wait is over! Hale's newest adventure explodes onto the scene!
-        Prepare for a thrilling tale of mystery and action.
-      </p>
       <div id="news-card" className="card card-with-background">
+        <p className="store-text heading3" style="text-align: center;tex">
+          The wait is over! Hale's newest adventure explodes onto the scene!
+          Prepare for a thrilling tale of mystery and action.
+        </p>
         <div
           className="card-body"
           style={{
@@ -108,10 +108,11 @@ const Store = () => {
         </div>
       </div>
 
+      
+      <div id="news-card" className="card card-with-background">
       <p className="store-text heading3">
         Other published works by Hale Verde:
       </p>
-      <div id="news-card" className="card card-with-background">
         <div
           className="card-body"
           style={{
