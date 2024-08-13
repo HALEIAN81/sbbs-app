@@ -626,7 +626,7 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
               className="card-body"
               style={{
                 backgroundImage:
-                  "url('https://jodeaux.agency/assets/img/portfolio/cafeteria_img_tiny.webp')",
+                  "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
@@ -634,7 +634,7 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
               <img
                 id="news-image"
                 className="card-img-top"
-                src="https://jodeaux.agency/assets/img/portfolio/portfolio-49.png"
+                src="https://jodeaux.agency/assets/img/portfolio/cafeteria_img_tiny.webp"
                 alt="newsImage"
               />
               <div className="card-text">
