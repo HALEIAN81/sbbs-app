@@ -238,7 +238,11 @@ span {
   background-color: #131e34;
 }
 .store-text {
-  margin-top: 50px;
+  margin-top: 20px;
+  padding-bottom: "20px";
+  color: "white";
+  font-family: "Roboto", sans-serif;
+  text-align: "center";
 }
 .store-img1 {
   width: 90%;
