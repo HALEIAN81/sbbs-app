@@ -403,7 +403,7 @@ span {
 }
 
 .card-with-background {
-  width: 80%;
+  width: 90%;
   margin: auto;
   background-image: url("/assets/bg_gradient_sb.png"); /* Replace with your image URL */
   background-position: center; /* Centers the image within the card */
@@ -491,7 +491,7 @@ span {
   }
 
   .card-content {
-    width: 300px;
+    width: 400px;
     margin: auto;
     color: #fff;
     /* Style card content */
