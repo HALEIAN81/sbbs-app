@@ -688,11 +688,10 @@ span {
 
 @media only screen and (max-width: 768px) {
   .image2 {
-    width: 100%; /* Adjust width for mobile */
-    height: auto; /* Adjust height for mobile */
+    height: auto;
   }
   .card-content {
-    width: 300px;
+    width: 340px;
     margin: auto;
     color: #fff;
     /* Style card content */
