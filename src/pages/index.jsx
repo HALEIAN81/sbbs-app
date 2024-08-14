@@ -25,7 +25,7 @@ const index = () => {
         <meta property="og:type" content="website" />{" "}
         <meta
           property="og:image"
-          content="https://jodeaux.agency/assets/img/portfolio/portfolio-20.png"
+          content="https://jodeaux.agency/assets/img/portfolio/sblogoimg1_tiny.webp"
         />
       </head>
       <main className="main">
@@ -37,9 +37,10 @@ const index = () => {
             >
               {/* <div className="headerImg"></div> */}
               <img
-                src="https://jodeaux.agency/assets/img/portfolio/portfolio-20.png"
+                src="https://jodeaux.agency/assets/img/portfolio/sblogo_img3.png"
                 className="image2"
                 alt=""
+                style={{ width: "900px", height: "400px" }}
               />
             </a>
           </div>
@@ -205,8 +206,8 @@ const index = () => {
                   his fight for Scotland, Washington. Will she succumb to the
                   dangers that lie ahead, or will she rise as an unexpected
                   pillar of strength? Melissa's path remains shrouded in mystery
-                  – a friend, a lover, or a pawn in a larger game? Only time
-                  will reveal the role she'll play in the trials to come.
+                  – a friend, a girlfriend, or a pawn in a larger game? Only
+                  time will reveal the role she'll play in the trials to come.
                 </p>
               </div>
             </div>
