@@ -112,8 +112,8 @@ span {
 }
 .image2 {
   display: flex;
-  width: 600px;
-  height: 600px;
+  width: 900px;
+  height: 500px;
   margin: auto;
   border-radius: 14px;
 }

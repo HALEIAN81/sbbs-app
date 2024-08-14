@@ -40,7 +40,6 @@ const index = () => {
                 src="https://jodeaux.agency/assets/img/portfolio/sblogo_img3.png"
                 className="image2"
                 alt=""
-                style={{ width: "900px", height: "500px" }}
               />
             </a>
           </div>
