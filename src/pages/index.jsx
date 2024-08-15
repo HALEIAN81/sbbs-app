@@ -51,10 +51,9 @@ const index = () => {
           <div className="newsContainer">
             <div className="newsTitle textBox">
               <p className="newsTitleContent p1">
-                This is where the mysteries of Scotland, Washington will be
-                revealed by our young heroes and the battle against the dark and
-                shadowy organization of BlueHand shall be fought and won in
-                their own backyard.
+                Hidden depths lurk beneath Scotland, Washington. Our young
+                champions will face the shadowy BlueHand in their own backyard.
+                The battle begins now.
               </p>
               <p className="newsTitleContent p1">Welcome.</p>
             </div>

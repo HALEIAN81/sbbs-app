@@ -45,35 +45,43 @@ const Author = () => {
           unique experiences and creative endeavors is to uncover that mystery
           every day."
         </p>
-        <p className="p-author glow heading2">- Hale Verde</p>
-        <p className="story-summary p1">
-          Hale Verde wears many hats – a physician by day, a software engineer
-          by night, and a creative mind at all hours. When he's not tending to
-          patients or crafting code, you can find him engrossed in aquascaping,
-          crafting video games, or sculpting worlds in 3D art. He also has other
-          children books - weaving enchanting tales for children (check out "The
-          Little Robot That Could" on Amazon!). Hale's passion extends beyond
-          his hobbies – he's dedicated to making a positive impact on the world,
-          one project at a time. And with his three amazing children by his
-          side, he's fostering a new generation of creative minds ready to shape
-          their own destinies.
-        </p>
-        <p>
-          The Scotland Backyard Series is just the beginning of many adventures
-          to come!
+        <p className="p-author glow heading2" style={{ marginBottom: "50px" }}>
+          - Hale Verde
         </p>
         <p className="story-summary p1">
-          The story of Jackson, Jira and Melissa is a budding story of
-          individual heroism, unwavering dedication and the depth of character
-          even in the world of fiction.
+          Meet Hale Verde - a multi-talented individual with a passion for
+          making a difference. By day, he's a dedicated physician, caring for
+          patients with unwavering commitment. By night, he's a skilled software
+          engineer, crafting code with precision and creativity. Yet, his
+          talents don't end there.
         </p>
         <p className="story-summary p1">
-          I hope that those that read this book and those that follow can be
-          captivated by their journey sharing in their triumphs and unraveling
-          the captivating enigma of BlueHand. I hope that our readers will
-          discover a love for that 'unwinding' of their mystery and learn more
-          about Scotland, Washington and as such -{" "}
-          <span className="glow"> Scotland Backyard</span>.
+          In his free time, Hale is an avid aquascaper, creating intricate
+          underwater worlds. He's also a game developer, weaving immersive
+          stores through his video game creations. As a 3D artist, he sculpts
+          breaktaking realms, bringing his imagination to life. And his passion
+          for storytelling extends to his children's books, including the
+          enchanting tale,{" "}
+          <span className="glow">The Little Robot That Could</span> (available
+          on Amazon.)
+        </p>
+
+        <p className="story-summary p1">
+          Hale's dedication to making a positive impact is evident in both his
+          professional and personal life. He's committed to inspiring others,
+          especially his three remarkable children, who are following in his
+          footsteps as budding creatives. Together, they're shaping a future
+          filled with innovation, curiosity, and endless possibilities.
+        </p>
+        <p className="story-summary p1">
+          The Scotland Backyard Book Series is just the beginning of a magical
+          journey, where individual heroism and unwavering determination take
+          center stage. Through the captivating adventures of Jackson, Jiro and
+          Melissa, readers will be swept away by their triumphs and the gripping
+          enigma of BlueHand. Discover the allure of Scotland, Washington, and
+          immerse yourself in the{" "}
+          <span className="glow">Scotland Backyard Universe</span>, where
+          mysteries are unraveled and imaginations soar.
         </p>
         <p className="next-book  ">
           Please look out for <span>Scotland Backyard - Volume III - TBD </span>{" "}
