@@ -61,7 +61,7 @@ const index = () => {
           </div>
 
           <h2
-            className="portfolioHeading heading3"
+            className="portfolioHeading glow heading3"
             style={{ marginTop: "30px", marginBottom: "30px" }}
           >
             Meet the Characters of Scotland Backyard Volume I: The Knights'
@@ -659,10 +659,21 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
               </div>
             </div>
           </div>
-
+          <img
+            id="news-image"
+            className="card-img-top"
+            src="https://jodeaux.agency/assets/img/portfolio/sb_separator2_img_tinyTP.webp"
+            alt="newsImage"
+            style={{
+              marginTop: "-90px",
+              marginBottom: "-90px",
+              width: "100%",
+              height: "auto",
+            }}
+          />
           <h2
-            className="portfolioHeading heading3"
-            style={{ marginTop: "30px", marginBottom: "30px" }}
+            className="portfolioHeading glow heading3"
+            style={{ marginTop: "10px", marginBottom: "10px" }}
           >
             Meet the Characters of Scotland Backyard Volume II: The Warlock's
             Cabal
