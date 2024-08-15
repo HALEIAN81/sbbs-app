@@ -40,14 +40,6 @@ const Author = () => {
           alt="Hale Verde the author standing with his three children"
         />
 
-        <p className="p-quote glow heading2">
-          "I believe, life itself is the greatest mystery - but to add our own
-          unique experiences and creative endeavors is to uncover that mystery
-          every day."
-        </p>
-        <p className="p-author glow heading2" style={{ marginBottom: "50px" }}>
-          - Hale Verde
-        </p>
         <p className="story-summary p1">
           Meet Hale Verde - a multi-talented individual with a passion for
           making a difference. By day, he's a dedicated physician, caring for
@@ -82,6 +74,14 @@ const Author = () => {
           immerse yourself in the{" "}
           <span className="glow">Scotland Backyard Universe</span>, where
           mysteries are unraveled and imaginations soar.
+        </p>
+        <p className="p-quote glow heading2">
+          "I believe, life itself is the greatest mystery - but to add our own
+          unique experiences and creative endeavors is to uncover that mystery
+          every day."
+        </p>
+        <p className="p-author glow heading2" style={{ marginBottom: "50px" }}>
+          - Hale Verde
         </p>
         <p className="next-book  ">
           Please look out for <span>Scotland Backyard - Volume III - TBD </span>{" "}
