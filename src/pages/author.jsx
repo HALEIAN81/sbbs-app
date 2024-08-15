@@ -41,11 +41,11 @@ const Author = () => {
         />
 
         <p className="story-summary p1">
-          Meet Hale Verde - a multi-talented individual with a passion for
-          making a difference. By day, he's a dedicated physician, caring for
-          patients with unwavering commitment. By night, he's a skilled software
-          engineer, crafting code with precision and creativity. Yet, his
-          talents don't end there.
+          Meet <span className="glow">Hale Verde</span> - a multi-talented
+          individual with a passion for making a difference. By day, he's a
+          dedicated physician, caring for patients with unwavering commitment.
+          By night, he's a skilled software engineer, crafting code with
+          precision and creativity. Yet, his talents don't end there.
         </p>
         <p className="story-summary p1">
           In his free time, Hale is an avid aquascaper, creating intricate
@@ -85,7 +85,7 @@ const Author = () => {
         </p>
         <p className="next-book  ">
           Please look out for <span>Scotland Backyard - Volume III - TBD </span>{" "}
-          coming out Q3 2024 on Amazon and other sellers.
+          coming out Q4 2024 on Amazon and other sellers.
         </p>
         <p className="thanks">Thank you all for supporting this journey.</p>
         <p className="story-summary p1">

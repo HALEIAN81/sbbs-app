@@ -393,7 +393,7 @@ span {
 }
 
 .card-content {
-  width: 600px;
+  width: 800px;
   margin: auto;
   color: #fff;
   /* Style card content */
@@ -402,12 +402,29 @@ span {
   text-align: center;
 }
 
+.separator-img {
+  width: 100%;
+  height: auto;
+  margin-top: -90px;
+  margin-bottom: -90px;
+}
+
 .card-with-background {
   width: 90%;
   margin: auto;
   background-image: url("/assets/bg_gradient_sb.png"); /* Replace with your image URL */
   background-position: center; /* Centers the image within the card */
   background-size: cover; /* Fills the entire card area */
+}
+
+.explore-img {
+  display: flex; /* Make the container a flex container */
+  align-items: center; /* Center content vertically */
+  justify-content: center; /* Center content horizontally */
+  width: 70%;
+  height: 400px;
+  margin: auto; /* Center the container itself */
+  text-align: center;
 }
 
 /*media queries for tablet*/
@@ -499,6 +516,19 @@ span {
     line-height: 2;
     text-align: center;
   }
+
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
 
 /*media queries for mobile*/
@@ -576,6 +606,18 @@ span {
     height: 300px;
     margin: 0px 5px;
   }
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -611,6 +653,17 @@ span {
     font-size: 20px;
     line-height: 2;
     text-align: center;
+  }
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 }
 
@@ -650,6 +703,17 @@ span {
     line-height: 2;
     text-align: center;
   }
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -684,10 +748,22 @@ span {
     margin: 0px 5px;
     border-radius: 14px;
   }
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
 }
 
 @media only screen and (max-width: 768px) {
   .image2 {
+    width: 400px;
     height: auto;
   }
   .card-content {
@@ -698,5 +774,16 @@ span {
     font-size: 20px;
     line-height: 2;
     text-align: center;
+  }
+  .explore-img {
+    width: 400px;
+    height: 350px;
+    margin: auto;
+  }
+  .separator-img {
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 }

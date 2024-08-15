@@ -660,15 +660,9 @@ Hockey Team, so I guess there is that. As the mysteries of Scotland, Washington 
           </div>
           <img
             id="news-image"
-            className="card-img-top"
+            className="card-img-top separator-img"
             src="https://jodeaux.agency/assets/img/portfolio/sb_separator2_img_tinyTP.webp"
             alt="newsImage"
-            style={{
-              marginTop: "-90px",
-              marginBottom: "-90px",
-              width: "100%",
-              height: "auto",
-            }}
           />
           <h2
             className="portfolioHeading glow heading3"

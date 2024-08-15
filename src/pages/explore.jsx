@@ -44,7 +44,7 @@ const Explore = () => {
           {/* <div className="explore-img1"></div> */}
           <img
             src="https://jodeaux.agency/assets/img/portfolio/one_road_image_mini.png"
-            className="image2"
+            className="explore-img"
             alt="Image of The One Road Headed into The Weirdness of Scotland, Washington"
           />
         </a>

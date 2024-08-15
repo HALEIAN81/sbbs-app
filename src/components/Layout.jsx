@@ -25,9 +25,9 @@ const Header = () => {
           <Link className="navbarLink" href="/store">
             Store
           </Link>
-          {/* <Link className="navbarLink" href="/blog">
+          <Link className="navbarLink" href="/blog">
             Blog
-          </Link> */}
+          </Link>
         </div>
         <div className="mobilemenu">
           <img
