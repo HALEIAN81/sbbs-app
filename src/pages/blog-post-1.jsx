@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react"; // Import react and hooks
 
-function BlogPost() {
-  const [selectedPost, setSelectedPost] = useState(null); // State variable for post data
+function Blog() {
+  const [blogPosts, setBlogPosts] = useState([]);
 
   // Fetch data from JSON file (replace with your actual fetch logic)
   useEffect(() => {
     fetch("blogPost.json")
       .then((response) => response.json())
-      .then((data) => setSelectedPost(data[0])); // Assuming first post in JSON
-  }, []); // Empty dependency array ensures data is fetched only once
+      .then((data) => setBlogPosts(data));
+  }, []);
 
   return (
     <div className="blog-section" key={index}>
