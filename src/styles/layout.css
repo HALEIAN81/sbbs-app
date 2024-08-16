@@ -427,6 +427,30 @@ span {
   text-align: center;
 }
 
+.blog-section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #121e34;
+}
+
+.blog-title {
+  padding-bottom: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+.blog-description {
+  color: white;
+  font-size: 24px;
+}
+
+BlogLink {
+  color: white;
+  text-decoration: none;
+}
+
 /*media queries for tablet*/
 @media only screen and (max-width: 1200px) {
   .navbar {
@@ -518,8 +542,8 @@ span {
   }
 
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
 
@@ -607,8 +631,8 @@ span {
     margin: 0px 5px;
   }
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
 
@@ -655,8 +679,8 @@ span {
     text-align: center;
   }
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
   .separator-img {
@@ -704,8 +728,8 @@ span {
     text-align: center;
   }
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
   .separator-img {
@@ -749,8 +773,8 @@ span {
     border-radius: 14px;
   }
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
   .separator-img {
@@ -776,8 +800,8 @@ span {
     text-align: center;
   }
   .explore-img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 268px;
     margin: auto;
   }
   .separator-img {

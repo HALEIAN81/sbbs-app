@@ -58,13 +58,13 @@ const Header = () => {
             >
               Store
             </Link>
-            {/* <Link
+            <Link
               onClick={() => setfirst("none")}
               className="navbarLink"
               href="/blog"
             >
               Blog
-            </Link> */}
+            </Link>
           </div>
         </div>
       </div>
