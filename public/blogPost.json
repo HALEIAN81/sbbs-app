@@ -8,5 +8,15 @@
     "content2": "Second paragraph",
     "content3": "Third paragraph",
     "content4": "Fourth paragraph"
+  },
+  {
+    "title": "The Glass Castle",
+    "image": "https://jodeaux.agency/assets/img/portfolio/sb_suk_img_tiny.webp",
+    "description": "This is the content for blog post 2.",
+    "url": "https://www.sbbs.online/blog-post-2",
+    "content1": "First paragraph",
+    "content2": "Second paragraph",
+    "content3": "Third paragraph",
+    "content4": "Fourth paragraph"
   }
 ]
