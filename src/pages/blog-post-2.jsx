@@ -1,28 +1,31 @@
-import React, { useState, useEffect } from "react"; // Import react and hooks
+import React, { useState, useEffect } from "react";
 
 function Blog() {
-  const [blogPosts, setBlogPosts] = useState([]);
+  const [blogPost, setBlogPost] = useState(null);
 
-  // Fetch data from JSON file (replace with your actual fetch logic)
   useEffect(() => {
-    fetch("blogPost2.json")
+    fetch("blogPost.json")
       .then((response) => response.json())
-      .then((data) => setBlogPosts(data));
+      .then((data) => setBlogPost(data[1])); // Access the first post
   }, []);
 
   return (
-    <div className="blog-section" key={index}>
-      <h2 className="blog-title" style={{ color: "white" }}>
-        {post.title}
-      </h2>
-      <img src={post.image} alt={post.title} />
-      <p className="blog-description">{post.description}</p>
-      <p className="blog-content1">{post.content1}</p>
-      <p className="blog-content2">{post.content2}</p>
-      <p className="blog-content3">{post.content3}</p>
-      <p className="blog-content4">{post.content4}</p>
+    <div className="blog-section">
+      {blogPost && (
+        <>
+          <h2 className="blog-title" style={{ color: "white" }}>
+            {blogPost.title}
+          </h2>
+          <img src={blogPost.image} alt={blogPost.title} />
+          <p className="blog-description">{blogPost.description}</p>
+          <p className="blog-content1">{blogPost.content1}</p>
+          <p className="blog-content2">{blogPost.content2}</p>
+          <p className="blog-content3">{blogPost.content3}</p>
+          <p className="blog-content4">{blogPost.content4}</p>
+        </>
+      )}
     </div>
   );
 }
 
-export default BlogPost;
+export default Blog;
