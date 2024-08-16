@@ -45,9 +45,9 @@ const index = () => {
           </div>
         </section>
         <section className="news">
-          <h2 className="newsHeading heading2 glow sb-title center-text">
+          <h1 className="newsHeading heading2 glow sb-title center-text">
             The Story of The Best Young Sleuth in the World
-          </h2>
+          </h1>
           <div className="newsContainer">
             <div className="newsTitle textBox">
               <p className="newsTitleContent p1">
