@@ -461,6 +461,32 @@ span {
   border-radius: 8px;
 }
 
+.blog-content1 {
+  width: 50%;
+  margin: auto;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.blog-content2 {
+  width: 50%;
+  margin: auto;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.blog-content3 {
+  width: 50%;
+  margin: auto;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.blog-content4 {
+  width: 50%;
+  margin: auto;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
 BlogLink {
   color: white;
   text-decoration: none;
