@@ -76,7 +76,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="footerText glow-footer">
-        Copyright<span> &copy;</span> 2023{" "}
+        Copyright<span> &copy;</span>2021 - 2024{" "}
         <Link className="footerLink" href={"/"}>
           Sbbs.Online
         </Link>
