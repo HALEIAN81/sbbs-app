@@ -497,6 +497,14 @@ span {
   font-family: "Roboto", sans-serif;
 }
 
+.blog-content5 {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 20px;
+  color: white;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
 
 BlogLink {
   color: white;
