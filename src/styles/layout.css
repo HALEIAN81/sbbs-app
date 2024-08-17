@@ -447,7 +447,7 @@ span {
   padding-top: 30px;
   padding-bottom: 30px;
   color: white;
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .blog-image {
@@ -464,7 +464,9 @@ span {
 .blog-content1 {
   width: 50%;
   margin: auto;
+  padding-bottom: 10px;
   color: white;
+  font-size: 18px;
   font-family: "Roboto", sans-serif;
 }
 

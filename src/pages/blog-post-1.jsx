@@ -16,7 +16,11 @@ function Blog() {
           <h2 className="blog-title" style={{ color: "white" }}>
             {blogPost.title}
           </h2>
-          <img src={blogPost.image} alt={blogPost.title} />
+          <img
+            className="blog-image"
+            src={blogPost.image}
+            alt={blogPost.title}
+          />
           <p className="blog-description">{blogPost.description}</p>
           <p className="blog-content1">{blogPost.content1}</p>
           <p className="blog-content2">{blogPost.content2}</p>
