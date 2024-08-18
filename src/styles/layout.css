@@ -460,7 +460,17 @@ span {
 
 .read-more-button {
   padding: 20px;
+  color: white;
+  background-color: dodgerblue;
   border-radius: 8px;
+}
+
+.read-more-button:hover {
+  padding: 25px;
+  color: black;
+  background-color: #c77f50;
+  border-radius: 8px;
+  box-shadow: 5px 5px 25px white;
 }
 
 .blog-content1 {
@@ -617,8 +627,8 @@ BlogLink {
   }
 
   .blog-image {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 8px;
     box-shadow: 5px 5px 25px #c77f50;
   }
@@ -721,8 +731,8 @@ BlogLink {
     margin-bottom: 5px;
   }
   .blog-image {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 8px;
     box-shadow: 5px 5px 25px #c77f50;
   }
@@ -783,8 +793,8 @@ BlogLink {
     margin-bottom: 5px;
   }
   .blog-image {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 8px;
     box-shadow: 5px 5px 25px #c77f50;
   }
@@ -847,8 +857,8 @@ BlogLink {
     margin-bottom: 5px;
   }
   .blog-image {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     border-radius: 8px;
     box-shadow: 5px 5px 25px #c77f50;
   }
