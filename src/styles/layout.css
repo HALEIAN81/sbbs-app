@@ -433,7 +433,7 @@ span {
   font-size: 30px;
   text-align: center;
   background-color: #121e34;
-  border: 10px solid #c77f50;
+  border: 10px solid #e2522f;
 }
 
 .blog-title {
@@ -455,7 +455,7 @@ span {
   width: 800px;
   height: 600px;
   border-radius: 8px;
-  box-shadow: 5px 5px 25px #c77f50;
+  box-shadow: 5px 5px 25px #e2522F;
 }
 
 .read-more-button {
@@ -468,7 +468,7 @@ span {
 .read-more-button:hover {
   padding: 25px;
   color: black;
-  background-color: #c77f50;
+  background-color: #e2522f;
   border-radius: 8px;
   box-shadow: 5px 5px 25px white;
 }
