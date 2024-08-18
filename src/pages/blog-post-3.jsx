@@ -31,6 +31,7 @@ function Blog() {
           <p className="blog-content2">{blogPost.content2}</p>
           <p className="blog-content3">{blogPost.content3}</p>
           <p className="blog-content4">{blogPost.content4}</p>
+          <p className="blog-content5">{blogPost.content5}</p>
         </>
       )}
     </div>
