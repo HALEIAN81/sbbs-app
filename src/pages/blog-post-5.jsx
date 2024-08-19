@@ -6,7 +6,7 @@ function Blog() {
   useEffect(() => {
     fetch("blogPost.json")
       .then((response) => response.json())
-      .then((data) => setBlogPost(data[3])); // Access the first post
+      .then((data) => setBlogPost(data[4])); // Access the first post
   }, []);
 
   return (
