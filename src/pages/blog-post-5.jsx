@@ -30,6 +30,11 @@ function Blog() {
           />
           <p className="blog-content2">{blogPost.content2}</p>
           <p className="blog-content3">{blogPost.content3}</p>
+          <img
+            className="blog-image"
+            src={blogPost.image3}
+            alt={blogPost.title}
+          />
           <p className="blog-content4">{blogPost.content4}</p>
           <p className="blog-content5">{blogPost.content5}</p>
         </>
