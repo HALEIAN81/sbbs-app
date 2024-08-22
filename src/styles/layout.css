@@ -477,48 +477,53 @@ span {
 }
 
 .blog-content1 {
-  width: 90%;
+  width: 50%;
   margin: auto;
   padding-bottom: 30px;
   color: white;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
+  line-height: 2;
 }
 
 .blog-content2 {
-  width: 90%;
+  width: 50%;
   margin: auto;
   padding-bottom: 30px;
   color: white;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
+  line-height: 2;
 }
 
 .blog-content3 {
-  width: 90%;
+  width: 50%;
   margin: auto;
   padding-bottom: 30px;
   color: white;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
+  line-height: 2;
 }
 
 .blog-content4 {
-  width: 90%;
+  width: 50%;
   margin: auto;
   padding-bottom: 30px;
   color: white;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
+  line-height: 2;
 }
 
 .blog-content5 {
-  width: 90%;
+  width: 50%;
   margin: auto;
   padding-bottom: 30px;
   color: white;
   font-size: 24px;
   font-family: "Roboto", sans-serif;
+  line-height: 2;
 }
 
 BlogLink {
@@ -736,6 +741,7 @@ BlogLink {
   .blog-image {
     width: 375px;
     height: 300px;
+    margin: 20px 0px 20px 0px;
     border-radius: 8px;
     box-shadow: 5px 5px 25px #c77f50;
   }

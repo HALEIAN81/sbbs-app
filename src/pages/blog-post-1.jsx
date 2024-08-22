@@ -25,6 +25,7 @@ function Blog() {
           <p className="blog-content1">{blogPost.content1}</p>
           <img
             className="blog-image"
+            style={{ color: "white" }}
             src={blogPost.image2}
             alt={blogPost.title}
           />
