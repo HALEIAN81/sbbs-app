@@ -816,6 +816,20 @@ BlogLink {
     color: white;
     font-size: 28px;
   }
+
+  .blog-content1,
+  .blog-content2,
+  .blog-content3,
+  .blog-content4,
+  .blog-content5 {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 2;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -880,6 +894,19 @@ BlogLink {
     color: white;
     font-size: 28px;
   }
+  .blog-content1,
+  .blog-content2,
+  .blog-content3,
+  .blog-content4,
+  .blog-content5 {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 2;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -925,6 +952,19 @@ BlogLink {
     margin-top: 5px;
     margin-bottom: 5px;
   }
+  .blog-content1,
+  .blog-content2,
+  .blog-content3,
+  .blog-content4,
+  .blog-content5 {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 2;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -951,5 +991,18 @@ BlogLink {
     height: auto;
     margin-top: 5px;
     margin-bottom: 5px;
+  }
+  .blog-content1,
+  .blog-content2,
+  .blog-content3,
+  .blog-content4,
+  .blog-content5 {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 30px;
+    color: #fff;
+    font-size: 24px;
+    font-family: Roboto, sans-serif;
+    line-height: 2;
   }
 }
