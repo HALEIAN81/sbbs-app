@@ -73,7 +73,7 @@ const Explore = () => {
             <img
               id="news-image"
               className="card-img-top"
-              src="https://jodeaux.agency/assets/img/portfolio/sbtown_img-mini.png"
+              src="https://jodeaux.agency/assets/img/portfolio/sbtownimgoneroad_tiny.webp"
               alt="Image of downtown Scotland, Washington - a mid-sized town nestled in the forests and mountains of the Pacific Northwest"
             />
             <div className="card-text">
@@ -110,7 +110,7 @@ const Explore = () => {
             <img
               id="news-image"
               className="card-img-top"
-              src="https://jodeaux.agency/assets/img/portfolio/bluehand2_img-mini.png"
+              src="https://jodeaux.agency/assets/img/portfolio/bluehand_img_tiny.webp"
               alt="BlueHand Corporation is having a meeting, featuring all the evil employees and a globe of the world at the center"
             />
             <div className="card-text">
@@ -145,7 +145,7 @@ const Explore = () => {
             <img
               id="news-image"
               className="card-img-top"
-              src="https://jodeaux.agency/assets/img/portfolio/portfolio-46.png"
+              src="https://jodeaux.agency/assets/img/portfolio/sb_shawgarage_img.webp"
               alt="The Shaw Legacy, Jackson sits at his mega console within his detective garage, neon lights surround him"
             />
             <div className="card-text">
@@ -186,7 +186,7 @@ const Explore = () => {
                 <span className="glow">The Weirdness of Scotland</span>
               </h2>
               <p className="card-content">
-                Scotland, Washington, is a place where the veil between reality
+                Scotland, Washington is a place where the veil between reality
                 and the strange seems to be perpetually thin. The town simmers
                 with a unique energy fueled by a confluence of factors. The Navy
                 conducts shadowy experiments, whispers surround "accidental
@@ -234,6 +234,62 @@ const Explore = () => {
                 what truly fuels their relentless pursuit? Are they guardians or
                 hunters? One thing is certain: when they set their sights on
                 something, blood may well be spilled.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div id="news-card" className="card card-with-background">
+          <div
+            className="card-body"
+            style={{
+              backgroundImage:
+                "url('https://jodeaux.agency/assets/img/portfolio/bg_gradient_sb.png')",
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+            }}
+          >
+            <img
+              id="news-image"
+              className="card-img-top"
+              src="https://jodeaux.agency/assets/img/portfolio/navybase_img1_tiny.webp"
+              alt="Image of a futuristic Navy base in the Pacific Northwest"
+            />
+            <div className="card-text">
+              <h2 className="card-title">
+                <span className="glow">Whispering Loch Naval Base</span>
+              </h2>
+              <p className="card-content">
+                Nestled amidst the towering pines and misty fjords of the
+                Pacific Northwest, just beyond the quaint town of Scotland, WA,
+                lies a hidden enclave of naval power: Whispering Loch Naval
+                Base. Its name, a stark contrast to the serene lake it
+                overlooks, hints at the dark secrets it harbors. Founded decades
+                ago under the guise of a top-secret research facility,
+                Whispering Loch has evolved into a clandestine military
+                installation. Its true purpose, known only to a select few, lies
+                in the development of advanced, experimental weaponry. The base
+                is a hive of activity, with scientists, engineers, and elite
+                military personnel working tirelessly to push the boundaries of
+                technology. At the heart of Whispering Loch's operations is a
+                shadowy corporation known as BlueHand. This enigmatic entity,
+                with its headquarters shrouded in secrecy, has a deep-rooted
+                connection to the base. BlueHand provides funding, resources,
+                and even personnel to the naval facility, ensuring its continued
+                existence and expansion. The town of Scotland has long been
+                affected by the presence of Whispering Loch. The base has cast a
+                long shadow over the community, influencing everything from
+                local politics to the mysterious disappearances that have
+                plagued the area. The residents, unaware of the true nature of
+                the base, often attribute the strange occurrences to the
+                supernatural or simply chalk them up to small-town life. But
+                beneath the placid surface of Whispering Loch, a sinister plot
+                is unfolding. The experiments conducted within the base's walls
+                have led to unforeseen consequences. Strange phenomena, ranging
+                from unexplainable disappearances to eerie lights in the sky,
+                have become a common occurrence. The town of Scotland, once a
+                peaceful haven, is now haunted by the whispers of a secret that
+                threatens to consume it.
               </p>
             </div>
           </div>
