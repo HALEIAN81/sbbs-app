@@ -1,4 +1,12 @@
 import React from "react";
+import myCursorImage from "../images/bluehand_img_mini-tp.png";
+
+const cursorStyle = Object.assign(
+  {},
+  {
+    cursor: `url(${myCursorImage}) 0, 0, auto`,
+  }
+);
 
 const index = () => {
   return (
@@ -78,6 +86,7 @@ const index = () => {
               }}
             >
               <img
+                style={cursorStyle}
                 id="news-image"
                 className="card-img-top"
                 src="https://jodeaux.agency/assets/img/portfolio/sb_mainimg_tiny.webp"
@@ -87,7 +96,7 @@ const index = () => {
                 <h2 className="card-title">
                   <span className="glow">Scotland, Washington</span>
                 </h2>
-                <p className="card-content">
+                <p className="card-content" style={cursorStyle}>
                   There exist mysterious towns and cities and then there is
                   Scotland, Washington. Nestled in the heart of McGregor County,
                   lies our humble city-town. Founded by the McGregor family and
