@@ -73,7 +73,7 @@ const Explore = () => {
             <img
               id="news-image"
               className="card-img-top"
-              src="https://jodeaux.agency/assets/img/portfolio/sbtownimgoneroad_tiny.webp"
+              src="https://jodeaux.agency/assets/img/portfolio/sb_townimgoneroad_tiny.webp"
               alt="Image of downtown Scotland, Washington - a mid-sized town nestled in the forests and mountains of the Pacific Northwest"
             />
             <div className="card-text">
